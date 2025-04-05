@@ -1,18 +1,6 @@
-aaafontsizelineheightembackgroundcolorvarbackgroundcolorinteractivesubtlefffadisplayflowrootmwparseroutput aaafontsizelineheightembackgroundcolorvarbackgroundcolorinteractivesubtlefffadisplayflowrootmwparseroutput
-aabbrtextdecorationinheritmwparseroutput aabbrtextdecorationinheritmwparseroutput
-aabwidthclearbothfontsizetextaligncenterpaddingpxmarginem aabwidthclearbothfontsizetextaligncenterpaddingpxmarginem
-abackgroundsizecontainpadding abackgroundsizecontainpadding
-abackgroundurluploadwikimediaorgwikipediacommonsaaalockredaltsvgright abackgroundurluploadwikimediaorgwikipediacommonsaaalockredaltsvgright
-abackgroundurluploadwikimediaorgwikipediacommonscwikisourcelogosvgright abackgroundurluploadwikimediaorgwikipediacommonscwikisourcelogosvgright
-abackgroundurluploadwikimediaorgwikipediacommonsddlockgrayaltsvgright abackgroundurluploadwikimediaorgwikipediacommonsddlockgrayaltsvgright
-abackgroundurluploadwikimediaorgwikipediacommonslockgreensvgright abackgroundurluploadwikimediaorgwikipediacommonslockgreensvgright
 abandoning abandoning
-abbrcolorvarcolorbaseimportantmedia abbrcolorvarcolorbaseimportantmedia
-abbrcolorvarcolorbaseimportantmediapreferscolorschemedarkhtmlskinthemeclientprefos abbrcolorvarcolorbaseimportantmediapreferscolorschemedarkhtmlskinthemeclientprefos
-abbrfontvariantsmallcapsborderbottomnonetextdecorationnonecursorinheritmwparseroutput abbrfontvariantsmallcapsborderbottomnonetextdecorationnonecursorinheritmwparseroutput
 abc abc
 ability ability
-abodynotskintimelessnotskinminerva abodynotskintimelessnotskinminerva
 abramal abramal
 absolute absolute
 accompanied accompanied
@@ -31,6 +19,7 @@ adventure adventure adventures
 aftermath aftermath
 age age
 aged aged
+aggregate aggregate
 aggressor aggressors
 agree agree
 aidan aidan
@@ -41,6 +30,7 @@ akhaten akhaten
 alasdair alasdair
 albero albero
 alien alien aliens
+alike alike
 allout allout
 allowed allowed
 almost almost
@@ -53,7 +43,6 @@ amazoncouk amazoncouk
 america america
 among among
 amp amp
-amwparseroutput amwparseroutput
 amy amy
 amys amys
 anderson anderson
@@ -69,7 +58,6 @@ answered answered
 apocalypse apocalypse
 appear appear
 appearance appearance appearances
-appearancesmajor appearancesmajor
 appeared appeared
 appears appears
 apply apply
@@ -85,24 +73,21 @@ army army
 around around
 arriving arriving
 art art
-article articles
-articleabout articleabout
-articletalk articletalk
+article article articles
 artist artists
 ascension ascension
 asking asking
 asks asks
-aspanmwparseroutput aspanmwparseroutput
 aspect aspect
 assassin assassin
 astronaut astronaut
 asylum asylum
+athe athe
 atmos atmos
 attack attack
-attributionsharealike attributionsharealike
+attribution attribution
 audience audience
 audio audio
-audiothe audiothe
 august august
 australia australia
 australian australian
@@ -155,19 +140,18 @@ bluray bluray
 body body
 bone bones
 book books
-booksnovelisations booksnovelisations
 boom boom
 bow bow
 bowing bowing
 boxing boxing
 boxset boxset
-boxsizingborderboxborderpx boxsizingborderboxborderpx
 brady brady
 brainwiping brainwiping
 break break breaks
 breaking breaking
 breath breath
 breathless breathless
+brian brian
 bride bride
 brief brief
 briggs briggs
@@ -175,7 +159,6 @@ brighton brighton
 brings brings
 british british
 broadcast broadcast
-broadcastdecemberchronology broadcastdecemberchronology
 broadcasting broadcasting
 broke broke
 broken broken
@@ -185,12 +168,6 @@ buller buller
 bumped bumped
 burn burn
 buzz buzz
-bydeep bydeep
-byjamie byjamie
-bymarcus bymarcus
-bymurray bymurray
-bysteven bysteven
-bythe bythe
 cage cage
 calendar calendar
 callback callback
@@ -209,10 +186,10 @@ carissa carissa
 carnival carnival
 carol carol
 case case
+cast cast
 casting casting
-castingedit castingedit
 castrovalva castrovalva
-catalespaolfranaisitalianoportugustrke catalespaolfranaisitalianoportugustrke
+catal catal
 category categories
 cave caves
 celebrating celebrating
@@ -220,11 +197,9 @@ cell cell
 centerpx centerpx
 central central
 centre centre
-century centuries
-centuryhidden centuryhidden
-centurywgpageviewlanguageenwgpagecontentlanguageenwgpagecontentmodelwikitextwgrelevantpagenamethetimeofthedoctorwgrelevantarticleidwgisprobablyeditabletruewgrelevantpageisprobablyeditabletruewgrestrictioneditwgrestrictionmovewgnoticeprojectwikipediawgcitereferencepreviewsactivefalsewgflaggedrevsparamstagsstatuslevelswgmediavieweronclicktruewgmediaviewerenabledbydefaulttruewgpopupsflagswgvisualeditorpagelanguagecodeenpagelanguagedirltrpagevariantfallbacksenwgmfdisplaywikibasedescriptionssearchtruewatchlisttruetaglinefalsenearbytruewgwmeschemaeditattemptstepoversamplefalsewgwmepagelengthwgeditsubmitbuttonlabelpublishtruewgulspositioninterlanguagewgulsiscompactlinksenabledfalsewgvectorlanguageinheadertruewgulsislanguageselectoremptyfalsewgwikibaseitemidqwgcheckuserclienthintsheadersjsapibrandsarchitecturebitnessfullversionlistmobilemodelplatformplatformversiongehomepagesuggestededitsenabletopicstruewggetopicsmatchmodeenabledfalsewggelevelingupenabledforuserfalse centurywgpageviewlanguageenwgpagecontentlanguageenwgpagecontentmodelwikitextwgrelevantpagenamethetimeofthedoctorwgrelevantarticleidwgisprobablyeditabletruewgrelevantpageisprobablyeditabletruewgrestrictioneditwgrestrictionmovewgnoticeprojectwikipediawgcitereferencepreviewsactivefalsewgflaggedrevsparamstagsstatuslevelswgmediavieweronclicktruewgmediaviewerenabledbydefaulttruewgpopupsflagswgvisualeditorpagelanguagecodeenpagelanguagedirltrpagevariantfallbacksenwgmfdisplaywikibasedescriptionssearchtruewatchlisttruetaglinefalsenearbytruewgwmeschemaeditattemptstepoversamplefalsewgwmepagelengthwgeditsubmitbuttonlabelpublishtruewgulspositioninterlanguagewgulsiscompactlinksenabledfalsewgvectorlanguageinheadertruewgulsislanguageselectoremptyfalsewgwikibaseitemidqwgcheckuserclienthintsheadersjsapibrandsarchitecturebitnessfullversionlistmobilemodelplatformplatformversiongehomepagesuggestededitsenabletopicstruewggetopicsmatchmodeenabledfalsewggelevelingupenabledforuserfalse
+century centuries century
 certain certain
-changesupload changesupload
+change changes
 changing changing
 channel channel channels
 chapter chapter
@@ -239,19 +214,18 @@ childlike childlike
 choice choice
 christmas christmas
 christmassy christmassy
+chronology chronology
 church church churchs
 citation citation
-citationtargetbackgroundcolorrgbamwparseroutput citationtargetbackgroundcolorrgbamwparseroutput
-citecitationfontstyleinheritwordwrapbreakwordmwparseroutput citecitationfontstyleinheritwordwrapbreakwordmwparseroutput
+cite cite
+citeweb citeweb
 city city
 clara clara
-classnameclientjs classnameclientjs
 clip clip clips
 clock clock
 close closes
 closing closing
 club club
-clubathe clubathe
 code code
 cold cold
 coleman coleman
@@ -290,7 +264,7 @@ content content contents
 context context
 continually continually
 contribute contribute
-contributionstalk contributionstalk
+contribution contributions
 convincing convincing
 convincingbut convincingbut
 convincingthough convincingthough
@@ -321,15 +295,8 @@ critical critical
 criticised criticised
 criticising criticising
 crowdpleasing crowdpleasing
-cscodecolorinheritbackgroundinheritbordernonepaddinginheritmwparseroutput cscodecolorinheritbackgroundinheritbordernonepaddinginheritmwparseroutput
-csformatfontsizehtmlskinthemeclientprefnight csformatfontsizehtmlskinthemeclientprefnight
-cshiddenerrordisplaynonecolorvarcolorerrordmwparseroutput cshiddenerrordisplaynonecolorvarcolorerrordmwparseroutput
-cskernleftpaddingleftemmwparseroutput cskernleftpaddingleftemmwparseroutput
-cskernrightpaddingrightemmwparseroutput cskernrightpaddingrightemmwparseroutput
+csmaintcolorf csmaintcolorf
 csmaintcolorfmedia csmaintcolorfmedia
-csmaintcolorfsmith csmaintcolorfsmith
-csmaintdisplaynonecolormarginleftemmwparseroutput csmaintdisplaynonecolormarginleftemmwparseroutput
-csvisibleerrorcolorvarcolorerrordmwparseroutput csvisibleerrorcolorvarcolorerrordmwparseroutput
 cswsicon cswsicon
 current current
 curse curse
@@ -352,10 +319,6 @@ david david
 davros davros
 day day days
 daz daz
-ddaftermwparseroutput ddaftermwparseroutput
-ddfirstchildbeforemwparseroutput ddfirstchildbeforemwparseroutput
-ddlastchildaftermwparseroutput ddlastchildaftermwparseroutput
-ddmwparseroutput ddmwparseroutput
 dead dead
 deadly deadly
 deal deal
@@ -375,7 +338,6 @@ departing departing
 departure departure
 dependably dependably
 description description
-descriptionshort descriptionshort
 despite despite
 destination destination
 destiny destiny
@@ -400,18 +362,8 @@ disc disc
 disclaimer disclaimers
 discogs discogs
 discover discover
-divhatnotepaddingleftemmarginbottomemmwparseroutput divhatnotepaddingleftemmarginbottomemmwparseroutput
-divnotnothemebackgroundffimportantcolorfffamediaminwidthpxbodyskinresponsive divnotnothemebackgroundffimportantcolorfffamediaminwidthpxbodyskinresponsive
-dlmwparseroutput dlmwparseroutput
 dmy dmy
 doctor doctor doctors
-doctordoctor doctordoctor
-doctoredit doctoredit
-doctorseries doctorseries
-doctorthe doctorthe
-doctorurl doctorurl
-doctorwgcurrevisionidwgrevisionidwgarticleidwgisarticletruewgisredirectfalsewgactionviewwgusernamenullwgusergroupswgcategoriesuse doctorwgcurrevisionidwgrevisionidwgarticleidwgisarticletruewgisredirectfalsewgactionviewwgusernamenullwgusergroupswgcategoriesuse
-doctorwho doctorwho
 documentary documentaries
 doesnt doesnt
 donate donate
@@ -425,9 +377,6 @@ dreamwish dreamwish
 dressed dressed
 dryeyed dryeyed
 dtaftercontent dtaftercontent
-dtfirstchildbeforemwparseroutput dtfirstchildbeforemwparseroutput
-dtlastchildaftermwparseroutput dtlastchildaftermwparseroutput
-dtmwparseroutput dtmwparseroutput
 dvd dvd
 dwindling dwindling
 dying dying
@@ -437,10 +386,6 @@ easily easily
 eater eaters
 echo echo
 edit edit
-editcommunity editcommunity
-edited edited
-editor editors
-editorderek editorderek
 edward edwards
 effective effective
 effort efforts
@@ -453,16 +398,12 @@ ellen ellen
 embodied embodied
 embodies embodies
 emerge emerge
-emhtmlskinthemeclientprefnight emhtmlskinthemeclientprefnight
-emlineheightemtextaligncentermwparseroutput emlineheightemtextaligncentermwparseroutput
 emma emma
-emmwparseroutput emmwparseroutput
 emotional emotional
 empathetic empathetic
 empire empire
 empress empress
 empty empty
-emtextaligncentermwparseroutput emtextaligncentermwparseroutput
 encyclopedia encyclopedia
 end end ends
 ending ending
@@ -475,15 +416,10 @@ entire entire
 entirely entirely
 entrance entrance
 entry entry
-enwikimwclientpreferencesifcookiecookiesplitcforeachclassnameclassnamereplacenew enwikimwclientpreferencesifcookiecookiesplitcforeachclassnameclassnamereplacenew
 episode episode episodes
-episodemwparseroutput episodemwparseroutput
-episodepromotional episodepromotional
-episodesdalek episodesdalek
-episodesdoctor episodesdoctor
-episodeseleventh episodeseleventh
 era era
 escape escape
+espaol espaol
 especially especially
 essential essential
 established established
@@ -493,7 +429,7 @@ evacuation evacuation
 eve eve
 even even
 evening evening
-eventsrandom eventsrandom
+event events
 eventually eventually
 ever ever
 every every
@@ -502,10 +438,12 @@ evolution evolution
 excellent excellent
 excess excess
 exciting exciting
+executive executive
 exemplary exemplary
 exercise exercise
 exit exit exits
 exited exited
+exp exp
 expected expected
 experience experience
 experiment experiment
@@ -533,7 +471,6 @@ fandom fandom
 far far
 farewell farewell
 fatal fatal
-fdfdfdmwparseroutput fdfdfdmwparseroutput
 fear fear
 feast feast
 feature feature features
@@ -549,13 +486,9 @@ fifteenth fifteenth
 fifth fifth
 figure figures
 file file
-filepermanent filepermanent
-filespecial filespecial
 film film films
 filmed filmed
 filming filming
-filmingedit filmingedit
-filmsdr filmsdr
 final final
 finale finale
 finally finally
@@ -580,8 +513,6 @@ flux flux
 fly fly
 followed followed
 following following
-fontweightboldmwparseroutput fontweightboldmwparseroutput
-fontweightnormalmwparseroutput fontweightnormalmwparseroutput
 footage footage
 footnote footnote
 force force forces
@@ -592,6 +523,7 @@ found found
 foundation foundation
 four four
 fourth fourth
+franais franais
 free free
 friend friend
 frontier frontier
@@ -623,7 +555,6 @@ glimpse glimpse
 go goes
 god god
 gold gold
-goldseries goldseries
 good good
 goodbye goodbye
 goodnight goodnight
@@ -645,9 +576,6 @@ halloween halloween
 handle handles
 harkness harkness
 hatnote hatnote
-hatnotedisplaynoneimportantfurther hatnotedisplaynoneimportantfurther
-hatnotefontstyleitalicmwparseroutput hatnotefontstyleitalicmwparseroutput
-hatnotelinkhatnotemargintopemmedia hatnotelinkhatnotemargintopemmedia
 haunting haunting
 he hes
 head head
@@ -658,10 +586,9 @@ heaven heaven
 heist heist
 hell hell
 help help
-helplearn helplearn
 henry henry
-hererelated hererelated
 hero heroes
+hidden hidden
 hide hide
 highest highest
 highlight highlight
@@ -669,7 +596,6 @@ history history
 hitler hitler
 hlist hlist
 hlistinline hlistinline
-hlistinlinemwparseroutput hlistinlinemwparseroutput
 hole holes
 hollington hollington
 home home
@@ -690,24 +616,16 @@ identity identity
 idlockfree idlockfree
 idlockfreeidlockfree idlockfreeidlockfree
 idlocklimited idlocklimited
-idlocklimitedidlocklimited idlocklimitedidlocklimited
 idlockregistration idlockregistration
-idlockregistrationidlockregistration idlockregistrationidlockregistration
 idlocksubscription idlocksubscription
-idlocksubscriptionidlocksubscription idlocksubscriptionidlocksubscription
-ifontstylenormalmwparseroutput ifontstylenormalmwparseroutput
 ign ign
+ignthe ignthe
 image image images
 imdb imdb
-imgbackgroundcolorwhitemedia imgbackgroundcolorwhitemedia
-imgbackgroundcolorwhitethe imgbackgroundcolorwhitethe
-imgmaxwidthnoneimportantmedia imgmaxwidthnoneimportantmedia
-imgsrcwiktionarylogoenvsvgbackgroundcolorwhitemedia imgsrcwiktionarylogoenvsvgbackgroundcolorwhitemedia
-imgsrcwiktionarylogoenvsvgbackgroundcolorwhitemwparseroutput imgsrcwiktionarylogoenvsvgbackgroundcolorwhitemwparseroutput
+imgsrc imgsrc
 impossible impossible
 inc inc
 incarnation incarnation
-inclogotypeimageobjecturl inclogotypeimageobjecturl
 include include
 includes includes
 including including
@@ -719,16 +637,8 @@ independent independent
 index index
 infinity infinity
 infobox infobox
-infoboxcolschildmarginautomwparseroutput infoboxcolschildmarginautomwparseroutput
-infoboxfulldatanotnotheme infoboxfulldatanotnotheme
-infoboxfulldatanotnothemedivnotnothemestylebackgroundffimportantcolorfffamedia infoboxfulldatanotnothemedivnotnothemestylebackgroundffimportantcolorfffamedia
-infoboxsubboxpaddingbordernonemarginpxwidthautominwidthfontsizeclearnonefloatnonebackgroundcolortransparentmwparseroutput infoboxsubboxpaddingbordernonemarginpxwidthautominwidthfontsizeclearnonefloatnonebackgroundcolortransparentmwparseroutput
 infoboxtable infoboxtable
-infoboxtablecaptiondisplaytablecaptionimportantbodyskinresponsive infoboxtablecaptiondisplaytablecaptionimportantbodyskinresponsive
-infoboxtabledisplaytableimportantbodyskinresponsive infoboxtabledisplaytableimportantbodyskinresponsive
-infoboxtabletbodydisplaytablerowgroupbodyskinresponsive infoboxtabletbodydisplaytablerowgroupbodyskinresponsive
 information information
-informationcite informationcite
 initial initial
 innocence innocence
 inquisitive inquisitive
@@ -743,8 +653,8 @@ introduced introduced
 introductory introductory
 invasion invasion
 inversion inversion
-iplayer iplayer
 isnt isnt
+italiano italiano
 item item
 itv itv
 jack jack
@@ -809,31 +719,20 @@ library library
 license license
 lie lie
 life life
-lifirstchildbeforecontent lifirstchildbeforecontent
-lifirstchildbeforemwparseroutput lifirstchildbeforemwparseroutput
 light light
 like like
 likely likely
-lilastchildaftercontentfontweightnormalmwparseroutput lilastchildaftercontentfontweightnormalmwparseroutput
-lilastchildaftercontentnonemwparseroutput lilastchildaftercontentnonemwparseroutput
-lilastchildaftermwparseroutput lilastchildaftermwparseroutput
 limarginbottom limarginbottom
-limargindisplayinlinemwparseroutput limargindisplayinlinemwparseroutput
 limit limit
-limwparseroutput limwparseroutput
 linda linda
 line line
-link links
-linkpage linkpage
-linksedit linksedit
-lipagebreakinsideavoidbreakinsideavoidcolumnmwparseroutput lipagebreakinsideavoidbreakinsideavoidcolumnmwparseroutput
+link link links
 list list
 listen listen
 little little
 live live
 lived lived
 living living
-liwordspacingemmwparseroutput liwordspacingemmwparseroutput
 lizardlike lizardlike
 lloyd lloyd
 location location
@@ -860,6 +759,7 @@ magician magicians
 main main
 mainframe mainframe
 mainly mainly
+major major
 makeup makeup
 malone malone
 man man
@@ -871,17 +771,14 @@ march march
 marcus marcus
 mark mark
 marketing marketing
-marketingedit marketingedit
 marta marta
 martin martin
 master master
 material material
 matt matt
 mawdryn mawdryn
-maxwidthpxmwparseroutput maxwidthpxmwparseroutput
 may may
 maze mazes
-mediaedit mediaedit
 medium media
 melancholic melancholic
 melody melody
@@ -895,23 +792,18 @@ metro metro
 might might
 million million
 mimic mimic
-minchinmusic minchinmusic
+minchin minchin
 mind mind
 mindgame mindgame
 mini mini
 minor minor
 minute minute minutes
-minutesfirst minutesfirst
 mirror mirror
 missing missing
 mission mission
 mobile mobile
 modulates modulates
 moffat moffat
-moffatbrian moffatbrian
-moffatninth moffatninth
-moffatscript moffatscript
-moffattwelfth moffattwelfth
 moment moment moments
 monologue monologue
 monster monsters
@@ -927,9 +819,8 @@ move move
 movie movie
 mulkern mulkern
 mullan mullan
-multidoctor multidoctor
+multi multi
 multiimageinner multiimageinner
-multiimageinnerdisplayflexflexdirectioncolumnmwparseroutput multiimageinnerdisplayflexflexdirectioncolumnmwparseroutput
 mummy mummy
 murray murray
 museum museum
@@ -937,51 +828,18 @@ music music
 mustve mustve
 mutant mutant
 mutation mutation
-mwemptylidisplaynonemwparseroutput mwemptylidisplaynonemwparseroutput
-mwparseroutput mwparseroutput
-mwselflinkfontweightinheritmedia mwselflinkfontweightinheritmedia
 mysterio mysterio
 mystery mystery
 mythology mythology
 name name
 navbar navbar
-navbarboxtextwordspacingmwparseroutput navbarboxtextwordspacingmwparseroutput
-navbarbracketsaftermarginleftemcontent navbarbracketsaftermarginleftemcontent
-navbarbracketsbeforemarginrightemcontent navbarbracketsbeforemarginrightemcontent
-navbarcollapsefloatlefttextalignleftmwparseroutput navbarcollapsefloatlefttextalignleftmwparseroutput
-navbarctfullfontsizemargin navbarctfullfontsizemargin
-navbarctminifontsizemargin navbarctminifontsizemargin
-navbardisplayblockfontsizemwparseroutput navbardisplayblockfontsizemwparseroutput
-navbardisplayinlinefontsizefontweightnormalmwparseroutput navbardisplayinlinefontsizefontweightnormalmwparseroutput
-navbardisplaynoneimportantvtedoctor navbardisplaynoneimportantvtedoctor
-navbarfloatlefttextalignleftmarginrightembodyskinresponsive navbarfloatlefttextalignleftmarginrightembodyskinresponsive
 navbarfontsizemedia navbarfontsizemedia
 navbarmini navbarmini
 navbox navbox
-navboxabovebelowbackgroundcoloreeffmwparseroutput navboxabovebelowbackgroundcoloreeffmwparseroutput
-navboxabovebelowmwparseroutput navboxabovebelowmwparseroutput
-navboxabovebelowpaddingem navboxabovebelowpaddingem
-navboxboxsizingborderboxborderpx navboxboxsizingborderboxborderpx
-navboxdisplaynoneimportantmwparseroutput navboxdisplaynoneimportantmwparseroutput
-navboxevenbackgroundcolorfffmwparseroutput navboxevenbackgroundcolorfffmwparseroutput
-navboxgroupmwparseroutput navboxgroupmwparseroutput
-navboxgroupwhitespacenowraptextalignrightmwparseroutput navboxgroupwhitespacenowraptextalignrightmwparseroutput
+navboxes navboxes
 navboximage navboximage
-navboxinnermwparseroutput navboxinnermwparseroutput
-navboxlistlineheightembordercolorfdfdfdmwparseroutput navboxlistlineheightembordercolorfdfdfdmwparseroutput
-navboxlistwithgrouptextalignleftborderleftwidthpxborderleftstylesolidmwparseroutput navboxlistwithgrouptextalignleftborderleftwidthpxborderleftstylesolidmwparseroutput
-navboxmargintopmwparseroutput navboxmargintopmwparseroutput
-navboxmwparseroutput navboxmwparseroutput
-navboxnavboxmwparseroutput navboxnavboxmwparseroutput
-navboxnavboxstylesnavboxmargintoppxmwparseroutput navboxnavboxstylesnavboxmargintoppxmwparseroutput
-navboxoddbackgroundcolortransparentmwparseroutput navboxoddbackgroundcolortransparentmwparseroutput
 navboxsubgroup navboxsubgroup
-navboxsubgroupbackgroundcolorfdfdfdmwparseroutput navboxsubgroupbackgroundcolorfdfdfdmwparseroutput
-navboxsubgroupwidthmwparseroutput navboxsubgroupwidthmwparseroutput
 navboxtitle navboxtitle
-navboxtitlebackgroundcolorccfmwparseroutput navboxtitlebackgroundcolorccfmwparseroutput
-navboxtitlebackgroundcolorddfmwparseroutput navboxtitlebackgroundcolorddfmwparseroutput
-navboxtitlemwparseroutput navboxtitlemwparseroutput
 navigation navigation
 need need
 needed needed
@@ -998,12 +856,10 @@ night night
 nightmare nightmare
 ninth ninth
 nonprofit nonprofit
-norepeatbodynotskintimelessnotskinminerva norepeatbodynotskintimelessnotskinminerva
-norepeatmwparseroutput norepeatmwparseroutput
-notentirelytransparent notentirelytransparent
 noticed noticed
 noting noting
 novak novak
+novelisation novelisations
 november november
 nuclear nuclear
 numerous numerous
@@ -1012,16 +868,10 @@ october october
 offer offer
 offered offered
 official official
-olcounterresetlistitemmwparseroutput olcounterresetlistitemmwparseroutput
 old old
 oldage oldage
 older older
 ollibeforecontent ollibeforecontent
-ollicounterincrementlistitemmwparseroutput ollicounterincrementlistitemmwparseroutput
-ollifirstchildbeforecontent ollifirstchildbeforecontent
-ollifirstchildbeforemwparseroutput ollifirstchildbeforemwparseroutput
-olmargintopmwparseroutput olmargintopmwparseroutput
-olmwparseroutput olmwparseroutput
 one one ones
 online online
 onto onto
@@ -1031,6 +881,7 @@ opportunity opportunity
 orbit orbit
 ordeal ordeal
 organization organization
+organizationname organizationname
 orient orient
 original original
 originates originates
@@ -1044,8 +895,6 @@ oxygen oxygen
 pace pace
 pacing pacing
 page page pages
-pagecontentscurrent pagecontentscurrent
-pageget pageget
 pall pall
 pandorica pandorica
 papal papal
@@ -1060,10 +909,9 @@ patrick patrick
 paul paul
 pavlica pavlica
 payne payne
-paynewritten paynewritten
 pdfprintable pdfprintable
 peak peak
-peakejones peakejones
+peake peake
 peepshow peepshow
 pegg pegg
 people people
@@ -1074,6 +922,7 @@ performance performance
 performed performed
 perhaps perhaps
 perky perky
+permanent permanent
 personal personal
 peter peter
 phase phase
@@ -1086,10 +935,10 @@ plainlist plainlist
 plan plan
 planet planet
 played played
+player player
 playfulness playfulness
 playing playing
 plot plot
-plotedit plotedit
 plotknot plotknot
 plunkett plunkett
 plus plus
@@ -1101,19 +950,16 @@ policy policy
 pompeii pompeii
 pond pond
 popular popular
-portalrecent portalrecent
+portal portal
+portugus portugus
 positive positive
 poster poster
-postercastdoctor postercastdoctor
 postregeneration postregeneration
 powell powell
 power power
 praised praised
 praising praising
 preceded preceded
-prefclassnameclassnamerlconfwgbreakframesfalsewgseparatortransformtablewgdigittransformtablewgdefaultdateformatdmywgmonthnamesjanuaryfebruarymarchaprilmayjunejulyaugustseptemberoctobernovemberdecemberwgrequestidabadaabddeewgcanonicalnamespacewgcanonicalspecialpagenamefalsewgnamespacenumberwgpagenamethetimeofthedoctorwgtitlethe prefclassnameclassnamerlconfwgbreakframesfalsewgseparatortransformtablewgdigittransformtablewgdefaultdateformatdmywgmonthnamesjanuaryfebruarymarchaprilmayjunejulyaugustseptemberoctobernovemberdecemberwgrequestidabadaabddeewgcanonicalnamespacewgcanonicalspecialpagenamefalsewgnamespacenumberwgpagenamethetimeofthedoctorwgtitlethe
-preferscolorschemedarkhtmlskinthemeclientprefos preferscolorschemedarkhtmlskinthemeclientprefos
-prefreplaceclientprefwwgclientprefw prefreplaceclientprefwwgclientprefw
 prepared prepared
 present present
 pretty pretty
@@ -1123,39 +969,34 @@ previously previously
 prime prime
 printbodyns printbodyns
 printexport printexport
-printmwparseroutput printmwparseroutput
 prior prior
 prisoner prisoner
 privacy privacy
 probably probably
-producer producer
-producerssteven producerssteven
+produced produced
+producer producer producers
 production production
-productiondirected productiondirected
-productionedit productionedit
 professional professional
 programme programme
 project project projects
-projectspublishertypeorganizationnamewikimedia projectspublishertypeorganizationnamewikimedia
 prom prom
+promotional promotional
 pronounce pronounce
 prosthetics prosthetics
 protection protection
 put put
 puzzlewood puzzlewood
 pyramid pyramid
-qquotesmwparseroutput qquotesmwparseroutput
 quotation quotations
 radio radio
 raggedy raggedy
+random random
 rani rani
 rapid rapid
 rather rather
 rating rating ratings
-ratingsaggregate ratingsaggregate
 raven raven
 read read reads
-readeditview readeditview
 readthrough readthrough
 real real
 reality reality
@@ -1167,26 +1008,15 @@ rebooting rebooting
 recap recap
 received received
 receiving receiving
+recent recent
 reception reception
-receptionedit receptionedit
 record record records
 reference references
-referencesedit referencesedit
-referencesfontsizemarginbottomliststyletypeinheritmwparseroutput referencesfontsizemarginbottomliststyletypeinheritmwparseroutput
 reflist reflist
 reflistcolumns reflistcolumns
-reflistcolumnscolumnwidthemmwparseroutput reflistcolumnscolumnwidthemmwparseroutput
-reflistcolumnsmargintopemmwparseroutput reflistcolumnsmargintopemmwparseroutput
-reflistfontsizemwparseroutput reflistfontsizemwparseroutput
-reflistloweralphaliststyletypeloweralphamwparseroutput reflistloweralphaliststyletypeloweralphamwparseroutput
-reflistlowergreekliststyletypelowergreekmwparseroutput reflistlowergreekliststyletypelowergreekmwparseroutput
-reflistlowerromanliststyletypelowerroman reflistlowerromanliststyletypelowerroman
-reflistmarginbottomemliststyletypedecimalmedia reflistmarginbottomemliststyletypedecimalmedia
-reflistupperalphaliststyletypeupperalphamwparseroutput reflistupperalphaliststyletypeupperalphamwparseroutput
-reflistupperromanliststyletypeupperromanmwparseroutput reflistupperromanliststyletypeupperromanmwparseroutput
+reg reg
 regenerating regenerating
 regeneration regeneration regenerations
-regexp regexp
 registered registered
 regular regular
 reid reid
@@ -1231,11 +1061,8 @@ right right
 ring rings
 rise rise
 risk risk
-ritchieproduced ritchieproduced
+ritchie ritchie
 river river
-rlqpushmwconfigsetwghostnamemwwebeqiadmainfvrrxcwgbackendresponsetimewgpageparsereportlimitreportcputimewalltimeppvisitednodesvaluelimitpostexpandincludesizevaluelimittemplateargumentsizevaluelimitexpansiondepthvaluelimitexpensivefunctioncountvaluelimitunstripdepthvaluelimitunstripsizevaluelimitentityaccesscountvaluelimittimingprofile rlqpushmwconfigsetwghostnamemwwebeqiadmainfvrrxcwgbackendresponsetimewgpageparsereportlimitreportcputimewalltimeppvisitednodesvaluelimitpostexpandincludesizevaluelimittemplateargumentsizevaluelimitexpansiondepthvaluelimitexpensivefunctioncountvaluelimitunstripdepthvaluelimitunstripsizevaluelimitentityaccesscountvaluelimittimingprofile
-rlqpushmwloaderimplreturnuseroptionssimwusertokenssetpatroltokenwatchtokencsrftoken rlqpushmwloaderimplreturnuseroptionssimwusertokenssetpatroltokenwatchtokencsrftoken
-rlstateextglobalcssjsuserstylesreadysitestylesreadyuserstylesreadyextglobalcssjsuserreadyuserreadyuseroptionsloadingextcitestylesreadyskinsvectorsearchcodexstylesreadyskinsvectorstylesreadyskinsvectoriconsreadyjquerymakecollapsiblestylesreadyextwikimediamessagesstylesreadyextvisualeditordesktoparticletargetnoscriptreadyextulsinterlanguagereadywikibaseclientinitreadyextwikimediabadgesreadyrlpagemodulesextciteuxenhancementsmediawikipagemediasitemediawikipagereadyjquerymakecollapsiblemediawikitocskinsvectorjsextcentralnoticegeoipextcentralnoticestartupextgadgetreferencetooltipsextgadgetswitcherexturlshortenertoolbarextcentralauthcentralautologinmmvbootstrapextpopupsextvisualeditordesktoparticletargetinitextvisualeditortargetloaderextechocentralauthexteventloggingextwikimediaeventsextnavigationtimingextulsinterfaceextcxeventloggingcampaignsextcxulsquickactionswikibaseclientvectorextcheckuserclienthintsextgrowthexperimentssuggestededitsession rlstateextglobalcssjsuserstylesreadysitestylesreadyuserstylesreadyextglobalcssjsuserreadyuserreadyuseroptionsloadingextcitestylesreadyskinsvectorsearchcodexstylesreadyskinsvectorstylesreadyskinsvectoriconsreadyjquerymakecollapsiblestylesreadyextwikimediamessagesstylesreadyextvisualeditordesktoparticletargetnoscriptreadyextulsinterlanguagereadywikibaseclientinitreadyextwikimediabadgesreadyrlpagemodulesextciteuxenhancementsmediawikipagemediasitemediawikipagereadyjquerymakecollapsiblemediawikitocskinsvectorjsextcentralnoticegeoipextcentralnoticestartupextgadgetreferencetooltipsextgadgetswitcherexturlshortenertoolbarextcentralauthcentralautologinmmvbootstrapextpopupsextvisualeditordesktoparticletargetinitextvisualeditortargetloaderextechocentralauthexteventloggingextwikimediaeventsextnavigationtimingextulsinterfaceextcxeventloggingcampaignsextcxulsquickactionswikibaseclientvectorextcheckuserclienthintsextgrowthexperimentssuggestededitsession
 road road
 rob rob
 robbing robbing
@@ -1247,10 +1074,10 @@ ross ross
 rotten rotten
 row row
 rowan rowan
-rowancharlton rowancharlton
 ruby ruby
 run run
 runaway runaway
+running running
 rushed rushed
 rutan rutan
 sadness sadness
@@ -1267,15 +1094,11 @@ scene scene scenes
 scheduled scheduled
 science science
 scifi scifi
-score score
-scorerotten scorerotten
-scoressourceratingignthe scoressourceratingignthe
-scoressourceratingrotten scoressourceratingrotten
+score score scores
 screen screen
 screened screened
-screenhtmlskinthemeclientprefnight screenhtmlskinthemeclientprefnight
-screenmwparseroutput screenmwparseroutput
 screenrantcom screenrantcom
+script script
 search search
 season season seasons
 second second
@@ -1307,6 +1130,7 @@ shes shes
 ship ship
 shooting shooting
 short short
+shortdescription shortdescription
 shortened shortened
 show show shows
 showing showing
@@ -1314,16 +1138,8 @@ shown shown
 showreel showreel
 side side
 sidebar sidebar
-sideboxabovebelowmwparseroutput sideboxabovebelowmwparseroutput
-sideboxflexdisplayflexalignitemscentermwparseroutput sideboxflexdisplayflexalignitemscentermwparseroutput
-sideboximagepaddingpx sideboximagepaddingpx
-sideboximagerightpaddingpx sideboximagerightpaddingpx
-sideboxleftmarginrightemmedia sideboxleftmarginrightemmedia
 sideboxmarginpx sideboxmarginpx
-sideboxrightclearrightfloatrightmarginleftemmwparseroutput sideboxrightclearrightfloatrightmarginleftemmwparseroutput
-sideboxtextflexminwidthmediaminwidthpxmwparseroutput sideboxtextflexminwidthmediaminwidthpxmwparseroutput
 sideboxtextpaddingem sideboxtextpaddingem
-sideboxwidthpxmwparseroutput sideboxwidthpxmwparseroutput
 siege siege
 sign sign
 signature signature
@@ -1338,11 +1154,9 @@ simulcast simulcast
 since since
 single single
 sistersitebox sistersitebox
-sistersiteboxdisplaynoneimportantmedia sistersiteboxdisplaynoneimportantmedia
 site site
 sixth sixth
 skaro skaro
-skinthemeclientprefday skinthemeclientprefday
 skipped skipped
 sky sky
 sladens sladens
@@ -1356,30 +1170,20 @@ soap soap
 solid solid
 somehow somehow
 song song
-songseries songseries
 sonicscrewdrivered sonicscrewdrivered
 sonita sonita
 sontar sontar
 sontaran sontaran
 sontarans sontarans
 soundtrack soundtrack
-soundtrackedit soundtrackedit
 source source
 space space
 spaceship spaceship
-spannotskininvertimagenotskininvertnotbgtransparent spannotskininvertimagenotskininvertnotbgtransparent
 spare spare
 sparked sparked
 speaks speaks
 spearhead spearhead
 special special specials
-speciala speciala
-speciallast speciallast
-specialsdoctor specialsdoctor
-specialsrunning specialsrunning
-specialstenth specialstenth
-specialthe specialthe
-specialtwice specialtwice
 spectacular spectacular
 speculation speculation
 spell spell
@@ -1400,7 +1204,6 @@ start start
 state states
 stated stated
 statement statement statements
-statementsarticles statementsarticles
 stating stating
 statistic statistics
 stay stay
@@ -1412,12 +1215,6 @@ still still
 stolen stolen
 stone stone
 stop stop
-storiescybermen storiescybermen
-storiestelevision storiestelevision
-storiestelevisionfirst storiestelevisionfirst
-storiestelevisionmajor storiestelevisionmajor
-storiestelevisionseries storiestelevisionseries
-storiesthe storiesthe
 storm storm
 story stories story
 straight straight
@@ -1452,28 +1249,19 @@ table table
 take take takes
 taken taken
 taking taking
+talk talk
 tangible tangible
 tap tap
 tardis tardis
 tardisode tardisode
 tasha tasha
 tdhlist tdhlist
-tdpaddingleftinheritpaddingrightinherit tdpaddingleftinheritpaddingrightinherit
 tearinducing tearinducing
 teaser teaser
 telegraph telegraph
-telegraphtv telegraphtv
 television television
 telly telly
-templateciteweb templateciteweb
-templatedoctorwhoepisodes templatedoctorwhoepisodes
-templateimdbepisodescribuntolimitreporttimeusagevaluelimitlimitreportmemusagevaluelimitcachereportoriginmwapiinteqiadmainfccchwhtimestampttltransientcontentfalse templateimdbepisodescribuntolimitreporttimeusagevaluelimitlimitreportmemusagevaluelimitcachereportoriginmwapiinteqiadmainfccchwhtimestampttltransientcontentfalse
-templateinfoboxdoctorwhoepisode templateinfoboxdoctorwhoepisode
-templatenavbox templatenavbox
-templatenavboxes templatenavboxes
-templatenavboxwithcollapsiblegroups templatenavboxwithcollapsiblegroups
-templatereflist templatereflist
-templateshortdescription templateshortdescription
+template template
 ten ten
 tennant tennant
 tennants tennants
@@ -1484,14 +1272,9 @@ terraphiles terraphiles
 terror terrors
 tessa tessa
 text text
-textaligncentermediaminwidthpxmwparseroutput textaligncentermediaminwidthpxmwparseroutput
-textaligncentertextaligncentermedia textaligncentertextaligncentermedia
-textalignlefttextalignleftmwparseroutput textalignlefttextalignleftmwparseroutput
-textalignrighttextalignrightmwparseroutput textalignrighttextalignrightmwparseroutput
 thank thank
 thats thats
 thbodyskinresponsive thbodyskinresponsive
-theaderclearbothfontweightboldtextaligncenteralignselfcenterbackgroundcolortransparentwidthmwparseroutput theaderclearbothfontweightboldtextaligncenteralignselfcenterbackgroundcolortransparentwidthmwparseroutput
 thin thin
 thing thing
 think think
@@ -1502,15 +1285,11 @@ thousand thousands
 thread threads
 three three
 throng throng
-thumbcaptionbackgroundcolortransparentmwparseroutput thumbcaptionbackgroundcolortransparentmwparseroutput
-thumbcaptiontextalignleftmwparseroutput thumbcaptiontextalignleftmwparseroutput
-thumbinnerwidthimportantboxsizingborderboxmaxwidthnoneimportantalignitemscentermwparseroutput thumbinnerwidthimportantboxsizingborderboxmaxwidthnoneimportantalignitemscentermwparseroutput
 tie tie
 tied tied
 tim tim
 time time times
 timeless timeless
-timeother timeother
 timetwisting timetwisting
 title title
 titled titled
@@ -1519,7 +1298,7 @@ together together
 toggle toggle
 tom tom
 tomato tomatoes
-tomatometerreview tomatometerreview
+tomatometer tomatometer
 tomb tomb
 tonight tonight
 took took
@@ -1534,24 +1313,15 @@ town town
 trademark trademark
 traditional traditional
 trailer trailer trailers
-trailersedit trailersedit
 transition transition
-trdisplaytablerowimportantbodyskinresponsive trdisplaytablerowimportantbodyskinresponsive
 trenzalore trenzalore
 trick tricks
-trowdisplayflexflexdirectionrowclearleftflexwrapwrapwidthboxsizingborderboxmwparseroutput trowdisplayflexflexdirectionrowclearleftflexwrapwrapwidthboxsizingborderboxmwparseroutput
-trowjustifycontentcentermwparseroutput trowjustifycontentcentermwparseroutput
-trowthumbcaptiontextaligncentermedia trowthumbcaptiontextaligncentermedia
-trtrnavboxabovebelowmwparseroutput trtrnavboxabovebelowmwparseroutput
-trtrnavboxgroupmwparseroutput trtrnavboxgroupmwparseroutput
-trtrnavboximagemwparseroutput trtrnavboximagemwparseroutput
-trtrnavboxlistbordertoppx trtrnavboxlistbordertoppx
+trke trke
 trump trumps
 try try
 trying trying
 tsingle tsingle
-tsinglefloatnoneimportantmaxwidthimportantboxsizingborderboxtextaligncentermwparseroutput tsinglefloatnoneimportantmaxwidthimportantboxsizingborderboxtextaligncentermwparseroutput
-tsinglemarginpxfloatleftmwparseroutput tsinglemarginpxfloatleftmwparseroutput
+tube tube
 turkey turkey
 turn turn
 tvshowsondvdcom tvshowsondvdcom
@@ -1564,15 +1334,9 @@ twitter twitter
 two two
 tying tying
 tyler tyler
-uldisplayinlineblockwhitespacenowraplineheightinheritmwparseroutput uldisplayinlineblockwhitespacenowraplineheightinheritmwparseroutput
-uldisplayinlinemwparseroutput uldisplayinlinemwparseroutput
-ullineheightinheritliststylenonemarginpaddingmwparseroutput ullineheightinheritliststylenonemarginpaddingmwparseroutput
-ulmarginpaddingmwparseroutput ulmarginpaddingmwparseroutput
-ulmwparseroutput ulmwparseroutput
 ulpaddingem ulpaddingem
 ultimately ultimately
 unbound unbound
-uncredited uncredited
 undead undead
 underneath underneath
 united united
@@ -1580,6 +1344,7 @@ universe universe
 unknown unknown
 unsourced unsourced
 unwittingly unwittingly
+upload upload
 upon upon
 urldownload urldownload
 us uses
@@ -1592,18 +1357,6 @@ vampire vampires
 vanquisher vanquishers
 var var
 varos varos
-vectorfeatureappearancepinnedclientpref vectorfeatureappearancepinnedclientpref
-vectorfeaturecustomfontsizeclientpref vectorfeaturecustomfontsizeclientpref
-vectorfeaturelanguageinheaderenabled vectorfeaturelanguageinheaderenabled
-vectorfeaturelanguageinmainpageheaderdisabled vectorfeaturelanguageinmainpageheaderdisabled
-vectorfeaturelimitedwidthclientpref vectorfeaturelimitedwidthclientpref
-vectorfeaturelimitedwidthcontentenabled vectorfeaturelimitedwidthcontentenabled
-vectorfeaturemainmenupinneddisabled vectorfeaturemainmenupinneddisabled
-vectorfeaturenightmodeenabled vectorfeaturenightmodeenabled
-vectorfeaturepagetoolspinneddisabled vectorfeaturepagetoolspinneddisabled
-vectorfeaturetocpinnedclientpref vectorfeaturetocpinnedclientpref
-vectorstickyheaderenabled vectorstickyheaderenabled
-vectortocavailablevar vectortocavailablevar
 vengeance vengeance
 venice venice
 verdict verdict
@@ -1620,7 +1373,7 @@ vincent vincent
 voice voice
 voiced voiced
 voyage voyage
-vtedoctor vtedoctor
+vte vte
 waited waited
 wake wake
 wall wall
@@ -1646,6 +1399,8 @@ wellintentioned wellintentioned
 whats whats
 wheel wheel
 who whos
+whoepisode whoepisode
+whoepisodes whoepisodes
 whole whole
 whovian whovian
 widow widow
@@ -1653,14 +1408,11 @@ wife wife
 wig wig
 wiki wiki
 wikidata wikidata
-wikidataall wikidataall
 wikimedia wikimedia
 wikipedia wikipedia
-wikipediacontact wikipediacontact
 wikiquote wikiquote
 wilkins wilkins
 wilson wilson
-wilsonexecutive wilsonexecutive
 wink wink
 wistful wistful
 witch witchs
@@ -1685,6 +1437,5 @@ yearhistory yearhistory
 yet yet
 young young
 youre youre
-youtube youtube
 zealand zealand
 zygon zygon

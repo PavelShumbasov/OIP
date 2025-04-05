@@ -1,16 +1,5 @@
-aabbrtextdecorationinheritmwparseroutput aabbrtextdecorationinheritmwparseroutput
-aabwidthclearbothfontsizetextaligncenterpaddingpxmarginem aabwidthclearbothfontsizetextaligncenterpaddingpxmarginem
-abackgroundsizecontainpadding abackgroundsizecontainpadding
-abackgroundurluploadwikimediaorgwikipediacommonsaaalockredaltsvgright abackgroundurluploadwikimediaorgwikipediacommonsaaalockredaltsvgright
-abackgroundurluploadwikimediaorgwikipediacommonscwikisourcelogosvgright abackgroundurluploadwikimediaorgwikipediacommonscwikisourcelogosvgright
-abackgroundurluploadwikimediaorgwikipediacommonsddlockgrayaltsvgright abackgroundurluploadwikimediaorgwikipediacommonsddlockgrayaltsvgright
-abackgroundurluploadwikimediaorgwikipediacommonslockgreensvgright abackgroundurluploadwikimediaorgwikipediacommonslockgreensvgright
-abbrcolorvarcolorbaseimportantmedia abbrcolorvarcolorbaseimportantmedia
-abbrcolorvarcolorbaseimportantmediapreferscolorschemedarkhtmlskinthemeclientprefos abbrcolorvarcolorbaseimportantmediapreferscolorschemedarkhtmlskinthemeclientprefos
-abbrfontvariantsmallcapsborderbottomnonetextdecorationnonecursorinheritmwparseroutput abbrfontvariantsmallcapsborderbottomnonetextdecorationnonecursorinheritmwparseroutput
 able able
 aboard aboard
-abodynotskintimelessnotskinminerva abodynotskintimelessnotskinminerva
 abreu abreu
 absolute absolute
 abuse abuse
@@ -43,15 +32,13 @@ affair affairs
 afraid afraid
 aftermath aftermath
 age age
-agedmiami agedmiami
+aged aged
 agency agency
 agero agero
 agree agree
 agreed agreed
 agreement agreement
 aguero aguero
-aguerocairo aguerocairo
-aguerograu aguerograu
 aid aid
 aircraft aircraft
 airline airline airlines
@@ -59,13 +46,13 @@ airplane airplanes
 airport airport
 airway airways
 alan alan
+alike alike
 almost almost
 along along
 alpha alpha
 already already
 alsina alsina
 also also
-alsoedit alsoedit
 alvarez alvarez
 ambassador ambassadors
 amcog amcog
@@ -76,13 +63,11 @@ among among
 amount amount
 amp amp
 amricas amricas
-amwparseroutput amwparseroutput
 ana ana
 andres andres
 angeles angeles
 another another
-antibatista antibatista
-anticastro anticastro
+anti anti
 antigovernment antigovernment
 antonio antonio
 anything anything
@@ -102,15 +87,12 @@ arrested arrested
 arrival arrival
 arrived arrived
 art arts
-article articles
-articleabout articleabout
-articletalk articletalk
+article article articles
 artist artist
 ash ashes
 asis asis
 ask ask
 asked asked
-aspanmwparseroutput aspanmwparseroutput
 assassination assassination
 asset assets
 assist assist
@@ -125,7 +107,7 @@ attempt attempt attempts
 attempting attempting
 attended attended
 attention attention
-attributionsharealike attributionsharealike
+attribution attribution
 august august
 authority authority
 autntico autntico
@@ -165,6 +147,7 @@ bill bill
 bird bird
 birth births
 bit bit
+blue blue
 boat boat
 boatlift boatlift
 bolender bolender
@@ -180,19 +163,23 @@ brigade brigade
 bring bring
 bringing bringing
 brother brother brothers
+brseparatedentries brseparatedentries
 brunswick brunswick
 bryan bryan
 buddy buddy
 bureau bureau
 buried buried
+burton burton
 bush bush
 businessman businessman
+cairo cairo
 called called
 calling calling
 calm calm
 camp camp
 campaign campaign
 campus campus
+card cards
 care care
 carlos carlos
 carol carol
@@ -200,8 +187,7 @@ carolina carolina
 carriles carriles
 carter carter
 castro castro castros
-category categories
-categorycubaunited categorycubaunited
+category categories category
 catholic catholic
 caucus caucus
 caught caught
@@ -213,8 +199,8 @@ central central
 ceremonial ceremonial
 certificate certificate
 chaffee chaffee
+change changes
 changed changed
-changesupload changesupload
 chapter chapter
 charge charge
 chicago chicago
@@ -225,14 +211,12 @@ church church churches
 chury chury
 cia cia
 ciabacked ciabacked
+circa circa
 citation citation
-citationtargetbackgroundcolorrgbamwparseroutput citationtargetbackgroundcolorrgbamwparseroutput
 cite cite
-citecitationfontstyleinheritwordwrapbreakwordmwparseroutput citecitationfontstyleinheritwordwrapbreakwordmwparseroutput
+citenews citenews
 citizen citizen citizens
 city city
-class class
-classnameclientjs classnameclientjs
 clipping clippings
 close close
 coconut coconut
@@ -271,7 +255,7 @@ contact contact
 content content contents
 context context
 contribute contribute
-contributionstalk contributionstalk
+contribution contributions
 control control
 convicted convicted
 convinced convinced
@@ -298,38 +282,21 @@ creative creative
 cremation cremation
 crisis crisis
 cross cross
-cscodecolorinheritbackgroundinheritbordernonepaddinginheritmwparseroutput cscodecolorinheritbackgroundinheritbordernonepaddinginheritmwparseroutput
-csformatfontsizehtmlskinthemeclientprefnight csformatfontsizehtmlskinthemeclientprefnight
-cshiddenerrordisplaynonecolorvarcolorerrordmwparseroutput cshiddenerrordisplaynonecolorvarcolorerrordmwparseroutput
-cskernleftpaddingleftemmwparseroutput cskernleftpaddingleftemmwparseroutput
-cskernrightpaddingrightemmwparseroutput cskernrightpaddingrightemmwparseroutput
+csmaintcolorf csmaintcolorf
 csmaintcolorfmedia csmaintcolorfmedia
-csmaintcolorfsaxon csmaintcolorfsaxon
-csmaintdisplaynonecolormarginleftemmwparseroutput csmaintdisplaynonecolormarginleftemmwparseroutput
-csvisibleerrorcolorvarcolorerrordmwparseroutput csvisibleerrorcolorvarcolorerrordmwparseroutput
 cswsicon cswsicon
 cuba cuba cubas
-cubacuban cubacuban
-cubadiedmarch cubadiedmarch
 cuban cuban cubans
 cubana cubana
-cubanamerican cubanamerican
-cubanotable cubanotable
-cubaoas cubaoas
-cubaone cubaone
-cubaunited cubaunited
+cubanexile cubanexile
+current current
 custody custody
 data data
 date date dates
 daughter daughter
 day day days
-ddaftermwparseroutput ddaftermwparseroutput
-ddfirstchildbeforemwparseroutput ddfirstchildbeforemwparseroutput
-ddlastchildaftermwparseroutput ddlastchildaftermwparseroutput
-ddmwparseroutput ddmwparseroutput
 dealt dealt
-death death
-deathspeople deathspeople
+death death deaths
 deborah deborah
 declined declined
 decorum decorum
@@ -341,7 +308,6 @@ denied denied
 department department
 described described
 description description
-descriptionshort descriptionshort
 despite despite
 detat detat
 detention detention
@@ -351,7 +317,6 @@ dialogue dialogue
 dialoguero dialoguero
 diario diario
 diaspora diaspora
-diasporaedit diasporaedit
 dictator dictators
 dictatorship dictatorship
 died died
@@ -365,14 +330,11 @@ dis diss
 disclaimer disclaimers
 discontent discontent
 disease disease
-displaytableboxsizingborderboxmaxwidthpxliststylenonemwparseroutput displaytableboxsizingborderboxmaxwidthpxliststylenonemwparseroutput
 dissident dissident
 distribute distribute
 distributed distributed
 distributing distributing
-divnotnothemebackgroundffimportantcolorfffamediaminwidthpxbodyskinresponsive divnotnothemebackgroundffimportantcolorfffamediaminwidthpxbodyskinresponsive
 dixie dixie
-dlmwparseroutput dlmwparseroutput
 document document documents
 doiicpsr doiicpsr
 doijcttpv doijcttpv
@@ -383,20 +345,14 @@ download download
 downtown downtown
 dry dry
 dtaftercontent dtaftercontent
-dtfirstchildbeforemwparseroutput dtfirstchildbeforemwparseroutput
-dtlastchildaftermwparseroutput dtlastchildaftermwparseroutput
-dtmwparseroutput dtmwparseroutput
 due due
 duke duke
 durham durham
 dy dies
 earlier earlier
 early early
-editcommunity editcommunity
-edited edited
-editor editors
+edit edit
 education education
-educationedit educationedit
 edward edward
 effort effort efforts
 either either
@@ -406,11 +362,7 @@ elin elin
 elsa elsa
 embargo embargo
 embassy embassy
-emhtmlskinthemeclientprefnight emhtmlskinthemeclientprefnight
 emigrant emigrants
-emlineheightemtextaligncentermwparseroutput emlineheightemtextaligncentermwparseroutput
-emmwparseroutput emmwparseroutput
-emverticalalignmiddlemediaminwidthpxmwparseroutput emverticalalignmiddlemediaminwidthpxmwparseroutput
 enabled enabled
 encouraged encouraged
 encouragement encouragement
@@ -424,16 +376,14 @@ enhancement enhancement
 entire entire
 entirely entirely
 entirety entirety
-enwikimwclientpreferencesifcookiecookiesplitcforeachclassnameclassnamereplacenew enwikimwclientpreferencesifcookiecookiesplitcforeachclassnameclassnamereplacenew
 error errors
 escaped escaped
-escs escs
 espionage espionage
 established established
 estudiantil estudiantil
 etat etat
 even even
-eventsrandom eventsrandom
+event events
 eventually eventually
 every every
 everything everything
@@ -442,10 +392,9 @@ executed executed
 exhibition exhibition
 exile exile exiles
 exiled exiled
-exileedit exileedit
-exilescuban exilescuban
 exit exit
 exodus exodus
+exp exp
 expand expand
 explained explained
 explaining explaining
@@ -460,11 +409,9 @@ fair fair
 faith faith
 fake fake
 fallen fallen
-false false
 fame fame
 family families family
 famously famously
-fdfdfdmwparseroutput fdfdfdmwparseroutput
 feared feared
 february february
 federal federal
@@ -473,8 +420,7 @@ felt felt
 fepcube fepcube
 fidel fidel
 fight fight
-filepermanent filepermanent
-filespecial filespecial
+file file
 filibuster filibuster
 finally finally
 find find
@@ -485,8 +431,6 @@ flager flager
 fleeing fleeing
 flight flight flights
 florida florida
-fontweightboldmwparseroutput fontweightboldmwparseroutput
-fontweightnormalmwparseroutput fontweightnormalmwparseroutput
 foot feet
 football football
 forced forced
@@ -513,8 +457,7 @@ gable gables
 gaede gaede
 gainesville gainesville
 gallery gallery
-galleryedit galleryedit
-garciamir garciamir
+garcia garcia
 gave gave
 general general
 generosity generosity
@@ -535,12 +478,7 @@ gotten gotten
 government government governments
 grandchild grandchildren
 grau grau
-graualsina graualsina
-graualsinanovember graualsinanovember
-graubornmaria graubornmaria
 graus graus
-grauurl grauurl
-grauwgcurrevisionidwgrevisionidwgarticleidwgisarticletruewgisredirectfalsewgactionviewwgusernamenullwgusergroupswgcategoriescs grauwgcurrevisionidwgrevisionidwgarticleidwgisarticletruewgisredirectfalsewgactionviewwgusernamenullwgusergroupswgcategoriescs
 grenada grenada
 gross gross
 ground grounds
@@ -554,24 +492,21 @@ handed handed
 handing handing
 hasnt hasnt
 havana havana havanas
-havanafirst havanafirst
-hayquesada hayquesada
-hcards hcards
+hay hay
 headed headed
 headline headlines
 health health
 heart heart
 held held
 hell hell
-helmsburton helmsburton
+helm helms
 help help
 helped helped
 helping helping
-helplearn helplearn
 hemisphere hemisphere
 herald herald
-hererelated hererelated
 heritage heritage
+hidden hidden
 hide hide
 high high
 highest highest
@@ -582,7 +517,6 @@ hilda hilda
 history history
 hlist hlist
 hlistinline hlistinline
-hlistinlinemwparseroutput hlistinlinemwparseroutput
 holding holdings
 home home
 honor honor
@@ -601,19 +535,13 @@ identification identification
 idlockfree idlockfree
 idlockfreeidlockfree idlockfreeidlockfree
 idlocklimited idlocklimited
-idlocklimitedidlocklimited idlocklimitedidlocklimited
 idlockregistration idlockregistration
-idlockregistrationidlockregistration idlockregistrationidlockregistration
 idlocksubscription idlocksubscription
-idlocksubscriptionidlocksubscription idlocksubscriptionidlocksubscription
-imgmaxwidthnoneimportantmedia imgmaxwidthnoneimportantmedia
 immigration immigration
 imprisoned imprisoned
 imprisonment imprisonment
-imprisonmentedit imprisonmentedit
 inc inc
 incident incident incidents
-inclogotypeimageobjecturl inclogotypeimageobjecturl
 included included
 increased increased
 independence independence
@@ -621,23 +549,16 @@ indoctrination indoctrination
 industry industries
 influence influences
 infobox infobox
-infoboxcolschildmarginautomwparseroutput infoboxcolschildmarginautomwparseroutput
-infoboxfulldatanotnotheme infoboxfulldatanotnotheme
-infoboxfulldatanotnothemedivnotnothemestylebackgroundffimportantcolorfffamedia infoboxfulldatanotnothemedivnotnothemestylebackgroundffimportantcolorfffamedia
-infoboxsubboxpaddingbordernonemarginpxwidthautominwidthfontsizeclearnonefloatnonebackgroundcolortransparentmwparseroutput infoboxsubboxpaddingbordernonemarginpxwidthautominwidthfontsizeclearnonefloatnonebackgroundcolortransparentmwparseroutput
+infoboxperson infoboxperson
 infoboxtable infoboxtable
-infoboxtablecaptiondisplaytablecaptionimportantbodyskinresponsive infoboxtablecaptiondisplaytablecaptionimportantbodyskinresponsive
-infoboxtabledisplaytableimportantbodyskinresponsive infoboxtabledisplaytableimportantbodyskinresponsive
-infoboxtabletbodydisplaytablerowgroupbodyskinresponsive infoboxtabletbodydisplaytablerowgroupbodyskinresponsive
 information information
-informationcite informationcite
 inhumane inhumane
 inhumanely inhumanely
 initiative initiative
 integrity integrity
 intelligence intelligence
 intention intention
-interamerican interamerican
+inter inter
 interest interests
 intervention intervention
 interview interview interviews
@@ -657,7 +578,7 @@ jam jam
 jamaican jamaican
 january january
 jean jean
-jetblue jetblue
+jet jet
 jimmy jimmy
 jmwave jmwave
 johnny johnny
@@ -680,11 +601,10 @@ kill kill
 knew knew
 knowledge knowledge
 known known
-knownforfirst knownforfirst
+knownfor knownfor
 la las
 lady ladies lady
 lago lago
-lagopereda lagopereda
 language languages
 last last
 lastly lastly
@@ -700,7 +620,6 @@ leaving leaving
 led led
 left left
 legacy legacy
-legacyedit legacyedit
 legal legal
 legislation legislation
 leopoldina leopoldina
@@ -713,22 +632,11 @@ liberty liberty
 library libraries library
 license license
 life life
-lifeedit lifeedit
-lifirstchildbeforecontent lifirstchildbeforecontent
-lifirstchildbeforemwparseroutput lifirstchildbeforemwparseroutput
 like like
 likely likely
-lilastchildaftercontentfontweightnormalmwparseroutput lilastchildaftercontentfontweightnormalmwparseroutput
-lilastchildaftercontentnonemwparseroutput lilastchildaftercontentnonemwparseroutput
-lilastchildaftermwparseroutput lilastchildaftermwparseroutput
-limargindisplayinlinemwparseroutput limargindisplayinlinemwparseroutput
 link link links
-linkpage linkpage
-linksedit linksedit
-lipagebreakinsideavoidbreakinsideavoidcolumnmwparseroutput lipagebreakinsideavoidbreakinsideavoidcolumnmwparseroutput
 little little
 live live
-liwordspacingemmwparseroutput liwordspacingemmwparseroutput
 llama llama
 lobby lobby
 located located
@@ -787,6 +695,7 @@ migration migration
 military military
 milkshake milkshake
 mind mind
+mir mir
 miracle miracle
 miramar miramar
 mirta mirta
@@ -815,9 +724,6 @@ muchachos muchachos
 mujer mujer
 multiple multiple
 museum museum
-mwemptylidisplaynonemwparseroutput mwemptylidisplaynonemwparseroutput
-mwparseroutput mwparseroutput
-mwselflinkfontweightinheritmedia mwselflinkfontweightinheritmedia
 myers myers
 nacional nacional
 name name
@@ -828,43 +734,12 @@ nationalize nationalize
 naturalization naturalization
 naval naval
 navbar navbar
-navbarboxtextwordspacingmwparseroutput navbarboxtextwordspacingmwparseroutput
-navbarbracketsaftermarginleftemcontent navbarbracketsaftermarginleftemcontent
-navbarbracketsbeforemarginrightemcontent navbarbracketsbeforemarginrightemcontent
-navbarcollapsefloatlefttextalignleftmwparseroutput navbarcollapsefloatlefttextalignleftmwparseroutput
-navbarctfullfontsizemargin navbarctfullfontsizemargin
-navbarctminifontsizemargin navbarctminifontsizemargin
-navbardisplayblockfontsizemwparseroutput navbardisplayblockfontsizemwparseroutput
-navbardisplayinlinefontsizefontweightnormalmwparseroutput navbardisplayinlinefontsizefontweightnormalmwparseroutput
-navbardisplaynoneimportantvtecuban navbardisplaynoneimportantvtecuban
-navbarfloatlefttextalignleftmarginrightembodyskinresponsive navbarfloatlefttextalignleftmarginrightembodyskinresponsive
 navbarfontsizemedia navbarfontsizemedia
 navbarmini navbarmini
 navbox navbox
-navboxabovebelowbackgroundcoloreeffmwparseroutput navboxabovebelowbackgroundcoloreeffmwparseroutput
-navboxabovebelowmwparseroutput navboxabovebelowmwparseroutput
-navboxabovebelowpaddingem navboxabovebelowpaddingem
-navboxboxsizingborderboxborderpx navboxboxsizingborderboxborderpx
-navboxdisplaynoneimportantmwparseroutput navboxdisplaynoneimportantmwparseroutput
-navboxevenbackgroundcolorfffmwparseroutput navboxevenbackgroundcolorfffmwparseroutput
-navboxgroupmwparseroutput navboxgroupmwparseroutput
-navboxgroupwhitespacenowraptextalignrightmwparseroutput navboxgroupwhitespacenowraptextalignrightmwparseroutput
 navboximage navboximage
-navboxinnermwparseroutput navboxinnermwparseroutput
-navboxlistlineheightembordercolorfdfdfdmwparseroutput navboxlistlineheightembordercolorfdfdfdmwparseroutput
-navboxlistwithgrouptextalignleftborderleftwidthpxborderleftstylesolidmwparseroutput navboxlistwithgrouptextalignleftborderleftwidthpxborderleftstylesolidmwparseroutput
-navboxmargintopmwparseroutput navboxmargintopmwparseroutput
-navboxmwparseroutput navboxmwparseroutput
-navboxnavboxmwparseroutput navboxnavboxmwparseroutput
-navboxnavboxstylesnavboxmargintoppxmwparseroutput navboxnavboxstylesnavboxmargintoppxmwparseroutput
-navboxoddbackgroundcolortransparentmwparseroutput navboxoddbackgroundcolortransparentmwparseroutput
 navboxsubgroup navboxsubgroup
-navboxsubgroupbackgroundcolorfdfdfdmwparseroutput navboxsubgroupbackgroundcolorfdfdfdmwparseroutput
-navboxsubgroupwidthmwparseroutput navboxsubgroupwidthmwparseroutput
 navboxtitle navboxtitle
-navboxtitlebackgroundcolorccfmwparseroutput navboxtitlebackgroundcolorccfmwparseroutput
-navboxtitlebackgroundcolorddfmwparseroutput navboxtitlebackgroundcolorddfmwparseroutput
-navboxtitlemwparseroutput navboxtitlemwparseroutput
 navigation navigation
 need need
 negro negro
@@ -879,17 +754,17 @@ next next
 noaa noaas
 noam noam
 nonprofit nonprofit
-norepeatbodynotskintimelessnotskinminerva norepeatbodynotskintimelessnotskinminerva
-norepeatmwparseroutput norepeatmwparseroutput
 north north
 northwoods northwoods
 nose noses
+notable notable
 november november
 npr npr
 nuevo nuevo
 number number
 nun nuns
 nursing nursing
+oas oas
 obtain obtain
 obtaining obtaining
 occupation occupation
@@ -899,14 +774,8 @@ offer offer
 office office
 official official
 ojito ojito
-olcounterresetlistitemmwparseroutput olcounterresetlistitemmwparseroutput
 old old
 ollibeforecontent ollibeforecontent
-ollicounterincrementlistitemmwparseroutput ollicounterincrementlistitemmwparseroutput
-ollifirstchildbeforecontent ollifirstchildbeforecontent
-ollifirstchildbeforemwparseroutput ollifirstchildbeforemwparseroutput
-olmargintopmwparseroutput olmargintopmwparseroutput
-olmwparseroutput olmwparseroutput
 olvidar olvidar
 omega omega
 one one
@@ -919,9 +788,10 @@ opposition opposition
 oral oral
 oregon oregon
 organization organization organizations
+organizationname organizationname
 organized organized
 original original
-oriolescuba oriolescuba
+oriole orioles
 orlando orlando
 ortsac ortsac
 ostend ostend
@@ -935,12 +805,10 @@ owner owner
 pac pac
 pacification pacification
 page page pages
-pagecontentscurrent pagecontentscurrent
-pageget pageget
+pagetype pagetype
 paid paid
 pan pan
 panamanian panamanian
-panedit panedit
 panic panic
 paper papers
 paquete paquete
@@ -967,14 +835,15 @@ pedro pedro
 penny penny
 people people
 pepe pepe
+pereda pereda
 perfect perfect
 perform perform
 period periods
-periodicalcs periodicalcs
+periodical periodical
+permanent permanent
 personal personal
 peruvian peruvian
 peter peter
-phd phd
 photograph photographs
 pig pigs
 place place places
@@ -994,29 +863,19 @@ politas politas
 political political
 politician politician politicians
 politics politics
-politicsedit politicsedit
 poll poll
 pollack pollack
 popularity popularity
 portal portal
 portalborderborderpx portalborderborderpx
-portalboxentrydisplaytablerowfontsizelineheightheightemfontstyleitalicfontweightboldmwparseroutput portalboxentrydisplaytablerowfontsizelineheightheightemfontstyleitalicfontweightboldmwparseroutput
-portalboximagedisplaytablecellpaddingemverticalalignmiddletextaligncentermwparseroutput portalboximagedisplaytablecellpaddingemverticalalignmiddletextaligncentermwparseroutput
-portalboxlinkdisplaytablecellpaddingem portalboxlinkdisplaytablecellpaddingem
-portalboxpaddingmarginem portalboxpaddingmarginem
 portalleftmarginem portalleftmarginem
-portalrecent portalrecent
-portalrightclearrightfloatrightmarginem portalrightclearrightfloatrightmarginem
 posada posada
 possibly possibly
 post post posts
 postprison postprison
 potestad potestad
 power power powers
-prefclassnameclassnamerlconfwgbreakframesfalsewgseparatortransformtablewgdigittransformtablewgdefaultdateformatdmywgmonthnamesjanuaryfebruarymarchaprilmayjunejulyaugustseptemberoctobernovemberdecemberwgrequestidcaebfabbdcbcwgcanonicalnamespacewgcanonicalspecialpagenamefalsewgnamespacenumberwgpagenamepolitagrauwgtitlepolita prefclassnameclassnamerlconfwgbreakframesfalsewgseparatortransformtablewgdigittransformtablewgdefaultdateformatdmywgmonthnamesjanuaryfebruarymarchaprilmayjunejulyaugustseptemberoctobernovemberdecemberwgrequestidcaebfabbdcbcwgcanonicalnamespacewgcanonicalspecialpagenamefalsewgnamespacenumberwgpagenamepolitagrauwgtitlepolita
 preferred preferred
-preferscolorschemedarkhtmlskinthemeclientprefos preferscolorschemedarkhtmlskinthemeclientprefos
-prefreplaceclientprefwwgclientprefw prefreplaceclientprefwwgclientprefw
 presidency presidency
 president president
 presidential presidential
@@ -1027,7 +886,6 @@ priest priests
 printbodyns printbodyns
 printed printed
 printexport printexport
-printmwparseroutput printmwparseroutput
 prior prior
 prison prison
 prisoner prisoner prisoners
@@ -1036,7 +894,6 @@ pro pro
 process process
 program program
 project project projects
-projectspublishertypeorganizationnamewikimedia projectspublishertypeorganizationnamewikimedia
 promise promise
 propaganda propaganda
 properly properly
@@ -1048,9 +905,8 @@ province provinces
 public public
 published published
 publisher publisher
-publisherarticles publisherarticles
 puede puede
-qquotesmwparseroutput qquotesmwparseroutput
+quesada quesada
 questioned questioned
 quitar quitar
 radical radical
@@ -1059,45 +915,34 @@ raft raft
 rafter rafter
 ramn ramn
 ramon ramon
+random random
 rank rank
-readeditview readeditview
+read read
 reading reading
-readingedit readingedit
 realize realize
 realized realized
 reason reason
 rebellion rebellion
 receive receive
 received received
+recent recent
 reciprocal reciprocal
 recognized recognized
 red red
 reference references
-referencesedit referencesedit
-referencesfontsizemarginbottomliststyletypeinheritmwparseroutput referencesfontsizemarginbottomliststyletypeinheritmwparseroutput
 referred referred
 reflist reflist
 reflistcolumns reflistcolumns
-reflistcolumnscolumnwidthemmwparseroutput reflistcolumnscolumnwidthemmwparseroutput
-reflistcolumnsmargintopemmwparseroutput reflistcolumnsmargintopemmwparseroutput
-reflistfontsizemwparseroutput reflistfontsizemwparseroutput
-reflistloweralphaliststyletypeloweralphamwparseroutput reflistloweralphaliststyletypeloweralphamwparseroutput
-reflistlowergreekliststyletypelowergreekmwparseroutput reflistlowergreekliststyletypelowergreekmwparseroutput
-reflistlowerromanliststyletypelowerroman reflistlowerromanliststyletypelowerroman
-reflistmarginbottomemliststyletypedecimalmedia reflistmarginbottomemliststyletypedecimalmedia
-reflistupperalphaliststyletypeupperalphamwparseroutput reflistupperalphaliststyletypeupperalphamwparseroutput
-reflistupperromanliststyletypeupperromanmwparseroutput reflistupperromanliststyletypeupperromanmwparseroutput
 reform reform
 refugee refugee refugees
+reg reg
 regan regan
-regexp regexp
 regime regime regimes
 registered registered
 regulation regulations
 related related
 relating relating
 relation relations
-relationsaftermath relationsaftermath
 relative relatives
 release release
 released released
@@ -1130,17 +975,12 @@ review review
 revolucionario revolucionario
 revolution revolution
 revolutionary revolutionary
-revolutionhidden revolutionhidden
-revolutionwgpageviewlanguageenwgpagecontentlanguageenwgpagecontentmodelwikitextwgrelevantpagenamepolitagrauwgrelevantarticleidwgisprobablyeditabletruewgrelevantpageisprobablyeditabletruewgrestrictioneditwgrestrictionmovewgnoticeprojectwikipediawgcitereferencepreviewsactivefalsewgflaggedrevsparamstagsstatuslevelswgmediavieweronclicktruewgmediaviewerenabledbydefaulttruewgpopupsflagswgvisualeditorpagelanguagecodeenpagelanguagedirltrpagevariantfallbacksenwgmfdisplaywikibasedescriptionssearchtruewatchlisttruetaglinefalsenearbytruewgwmeschemaeditattemptstepoversamplefalsewgwmepagelengthwgeditsubmitbuttonlabelpublishtruewgulspositioninterlanguagewgulsiscompactlinksenabledfalsewgvectorlanguageinheadertruewgulsislanguageselectoremptyfalsewgwikibaseitemidqwgcheckuserclienthintsheadersjsapibrandsarchitecturebitnessfullversionlistmobilemodelplatformplatformversiongehomepagesuggestededitsenabletopicstruewggetopicsmatchmodeenabledfalsewggestructuredtaskrejectionreasontextinputenabledfalsewggelevelingupenabledforuserfalse revolutionwgpageviewlanguageenwgpagecontentlanguageenwgpagecontentmodelwikitextwgrelevantpagenamepolitagrauwgrelevantarticleidwgisprobablyeditabletruewgrelevantpageisprobablyeditabletruewgrestrictioneditwgrestrictionmovewgnoticeprojectwikipediawgcitereferencepreviewsactivefalsewgflaggedrevsparamstagsstatuslevelswgmediavieweronclicktruewgmediaviewerenabledbydefaulttruewgpopupsflagswgvisualeditorpagelanguagecodeenpagelanguagedirltrpagevariantfallbacksenwgmfdisplaywikibasedescriptionssearchtruewatchlisttruetaglinefalsenearbytruewgwmeschemaeditattemptstepoversamplefalsewgwmepagelengthwgeditsubmitbuttonlabelpublishtruewgulspositioninterlanguagewgulsiscompactlinksenabledfalsewgvectorlanguageinheadertruewgulsislanguageselectoremptyfalsewgwikibaseitemidqwgcheckuserclienthintsheadersjsapibrandsarchitecturebitnessfullversionlistmobilemodelplatformplatformversiongehomepagesuggestededitsenabletopicstruewggetopicsmatchmodeenabledfalsewggestructuredtaskrejectionreasontextinputenabledfalsewggelevelingupenabledforuserfalse
 richter richter
 right right rights
 ring ring
 riot riots
 risk risk
 rivero rivero
-rlqpushmwconfigsetwghostnamemwwebeqiadmainfdbdvhdswgbackendresponsetimewgpageparsereportlimitreportcputimewalltimeppvisitednodesvaluelimitpostexpandincludesizevaluelimittemplateargumentsizevaluelimitexpansiondepthvaluelimitexpensivefunctioncountvaluelimitunstripdepthvaluelimitunstripsizevaluelimitentityaccesscountvaluelimittimingprofile rlqpushmwconfigsetwghostnamemwwebeqiadmainfdbdvhdswgbackendresponsetimewgpageparsereportlimitreportcputimewalltimeppvisitednodesvaluelimitpostexpandincludesizevaluelimittemplateargumentsizevaluelimitexpansiondepthvaluelimitexpensivefunctioncountvaluelimitunstripdepthvaluelimitunstripsizevaluelimitentityaccesscountvaluelimittimingprofile
-rlqpushmwloaderimplreturnuseroptionssimwusertokenssetpatroltokenwatchtokencsrftoken rlqpushmwloaderimplreturnuseroptionssimwusertokenssetpatroltokenwatchtokencsrftoken
-rlstateextglobalcssjsuserstylesreadysitestylesreadyuserstylesreadyextglobalcssjsuserreadyuserreadyuseroptionsloadingextcitestylesreadymediawikipagegallerystylesreadyskinsvectorsearchcodexstylesreadyskinsvectorstylesreadyskinsvectoriconsreadyjquerymakecollapsiblestylesreadyextwikimediamessagesstylesreadyextvisualeditordesktoparticletargetnoscriptreadyextulsinterlanguagereadywikibaseclientinitreadyrlpagemodulesextciteuxenhancementsmediawikipagegallerymediawikipagemediasitemediawikipagereadyjquerymakecollapsiblemediawikitocskinsvectorjsextcentralnoticegeoipextcentralnoticestartupextgadgetreferencetooltipsextgadgetswitcherexturlshortenertoolbarextcentralauthcentralautologinmmvbootstrapextpopupsextvisualeditordesktoparticletargetinitextvisualeditortargetloaderextechocentralauthexteventloggingextwikimediaeventsextnavigationtimingextulsinterfaceextcxeventloggingcampaignsextcxulsquickactionswikibaseclientvectorextcheckuserclienthintsextgrowthexperimentssuggestededitsession rlstateextglobalcssjsuserstylesreadysitestylesreadyuserstylesreadyextglobalcssjsuserreadyuserreadyuseroptionsloadingextcitestylesreadymediawikipagegallerystylesreadyskinsvectorsearchcodexstylesreadyskinsvectorstylesreadyskinsvectoriconsreadyjquerymakecollapsiblestylesreadyextwikimediamessagesstylesreadyextvisualeditordesktoparticletargetnoscriptreadyextulsinterlanguagereadywikibaseclientinitreadyrlpagemodulesextciteuxenhancementsmediawikipagegallerymediawikipagemediasitemediawikipagereadyjquerymakecollapsiblemediawikitocskinsvectorjsextcentralnoticegeoipextcentralnoticestartupextgadgetreferencetooltipsextgadgetswitcherexturlshortenertoolbarextcentralauthcentralautologinmmvbootstrapextpopupsextvisualeditordesktoparticletargetinitextvisualeditortargetloaderextechocentralauthexteventloggingextwikimediaeventsextnavigationtimingextulsinterfaceextcxeventloggingcampaignsextcxulsquickactionswikibaseclientvectorextcheckuserclienthintsextgrowthexperimentssuggestededitsession
 road road
 robert robert
 roberto roberto
@@ -1166,8 +1006,6 @@ scare scare
 school school schools
 science sciences
 screen screen
-screenhtmlskinthemeclientprefnight screenhtmlskinthemeclientprefnight
-screenmwparseroutput screenmwparseroutput
 search search
 second second
 secret secret
@@ -1192,10 +1030,12 @@ serving serving
 seventeen seventeen
 seventh seventh
 several several
+share share
 shelter shelter
 shnookal shnookal
 shootdown shootdown
 short short
+shortdescription shortdescription
 shortened shortened
 shortly shortly
 sibling siblings
@@ -1208,7 +1048,6 @@ sinking sinking
 sister sister
 site site
 six six
-skinthemeclientprefday skinthemeclientprefday
 smbolo smbolo
 socarrs socarrs
 socially socially
@@ -1221,8 +1060,8 @@ southern southern
 soviet soviet
 space spaces
 spanish spanish
-spanishamerican spanishamerican
 spanishlanguage spanishlanguage
+special special
 specific specific
 specifically specifically
 spending spending
@@ -1239,7 +1078,6 @@ started started
 state state states
 stated stated
 statement statement
-statescubaunited statescubaunited
 statesponsored statesponsored
 statess statess
 statistic statistics
@@ -1255,8 +1093,6 @@ successful successful
 successor successor
 sugar sugar
 sun sun
-sunsentinel sunsentinel
-suntimes suntimes
 support support
 supported supported
 supposed supposed
@@ -1268,23 +1104,15 @@ table table
 take take
 taken taken
 taking taking
+talk talk
 task task
 tdhlist tdhlist
-tdpaddingleftinheritpaddingrightinheritpolita tdpaddingleftinheritpaddingrightinheritpolita
 team team
 telephone telephones
 televisin televisin
 tell tells
 teller teller
-templatebrseparatedentries templatebrseparatedentries
-templatecitenews templatecitenews
-templatecubanexile templatecubanexile
-templateinfoboxperson templateinfoboxperson
-templatemainotherscribuntolimitreporttimeusagevaluelimitlimitreportmemusagevaluelimitcachereportoriginmwapiexteqiadmigrationddcccnntimestampttltransientcontentfalse templatemainotherscribuntolimitreporttimeusagevaluelimitlimitreportmemusagevaluelimitcachereportoriginmwapiexteqiadmigrationddcccnntimestampttltransientcontentfalse
-templatenavbox templatenavbox
-templatepagetype templatepagetype
-templatereflist templatereflist
-templateshortdescription templateshortdescription
+template template
 teresian teresian
 term term terms
 terrorism terrorism
@@ -1318,7 +1146,6 @@ trademark trademark
 trans trans
 travel travel
 traveled traveled
-trdisplaytablerowimportantbodyskinresponsive trdisplaytablerowimportantbodyskinresponsive
 treaty treaty
 triay triay
 tribune tribune
@@ -1326,20 +1153,11 @@ tried tried
 trinity trinity
 tripartite tripartite
 troika troika
-trtrnavboxabovebelowmwparseroutput trtrnavboxabovebelowmwparseroutput
-trtrnavboxgroupmwparseroutput trtrnavboxgroupmwparseroutput
-trtrnavboximagemwparseroutput trtrnavboximagemwparseroutput
-trtrnavboxlistbordertoppx trtrnavboxlistbordertoppx
-true true
 tugboat tugboat
 turned turned
 twice twice
 two two
 tyranny tyranny
-uldisplayinlineblockwhitespacenowraplineheightinheritmwparseroutput uldisplayinlineblockwhitespacenowraplineheightinheritmwparseroutput
-uldisplayinlinemwparseroutput uldisplayinlinemwparseroutput
-ulmarginpaddingmwparseroutput ulmarginpaddingmwparseroutput
-ulmwparseroutput ulmwparseroutput
 ulpaddingem ulpaddingem
 unable unable
 uncle uncle uncles
@@ -1351,31 +1169,19 @@ unlike unlike
 unrest unrest
 unsuccessful unsuccessful
 untold untold
+upload upload
 urldownload urldownload
 us uss
 uscuba uscuba
 use use
 used used
 using using
-usyearsactivecirca usyearsactivecirca
+usyearsactive usyearsactive
 utc utc
 valid valid
 var var
-varbordercolorbaseaabpaddingembackgroundvarbackgroundcolorneutralsubtlefffamwparseroutput varbordercolorbaseaabpaddingembackgroundvarbackgroundcolorneutralsubtlefffamwparseroutput
 varela varela
 varona varona
-vectorfeatureappearancepinnedclientpref vectorfeatureappearancepinnedclientpref
-vectorfeaturecustomfontsizeclientpref vectorfeaturecustomfontsizeclientpref
-vectorfeaturelanguageinheaderenabled vectorfeaturelanguageinheaderenabled
-vectorfeaturelanguageinmainpageheaderdisabled vectorfeaturelanguageinmainpageheaderdisabled
-vectorfeaturelimitedwidthclientpref vectorfeaturelimitedwidthclientpref
-vectorfeaturelimitedwidthcontentenabled vectorfeaturelimitedwidthcontentenabled
-vectorfeaturemainmenupinneddisabled vectorfeaturemainmenupinneddisabled
-vectorfeaturenightmodeenabled vectorfeaturenightmodeenabled
-vectorfeaturepagetoolspinneddisabled vectorfeaturepagetoolspinneddisabled
-vectorfeaturetocpinnedclientpref vectorfeaturetocpinnedclientpref
-vectorstickyheaderenabled vectorstickyheaderenabled
-vectortocavailablevar vectortocavailablevar
 vedado vedado
 venceremos venceremos
 version version
@@ -1405,10 +1211,8 @@ white white
 whole whole
 wider wider
 wikidata wikidata
-wikidatause wikidatause
 wikimedia wikimedia
 wikipedia wikipedia
-wikipediacontact wikipediacontact
 wisdom wisdom
 without without
 wolfgang wolfgang
@@ -1416,7 +1220,6 @@ woman woman women
 womens womens
 work work
 worked worked
-workoperacin workoperacin
 world world
 would would
 writing writing writings
@@ -1428,4 +1231,5 @@ york york
 yvonne yvonne
 zemel zemel
 zita zita
-zunzuneo zunzuneo
+zun zun
+zuneo zuneo

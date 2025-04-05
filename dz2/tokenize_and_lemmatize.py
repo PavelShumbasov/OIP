@@ -1,43 +1,98 @@
 import re
 import os
-from nltk.corpus import stopwords
+from nltk.corpus import stopwords, words
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import nltk
 
 # Скачиваем необходимые ресурсы NLTK
 nltk.download('punkt')
-nltk.download('punkt_tab')
 nltk.download('stopwords')
 nltk.download('wordnet')
+nltk.download('words')
 
 # Инициализация инструментов
 lemmatizer = WordNetLemmatizer()
 english_stopwords = set(stopwords.words('english'))
+english_words = set(words.words())
+
+def split_camel_case(text):
+    """
+    Разделяет слова, написанные в стиле CamelCase.
+    """
+    return re.sub(r'([a-z])([A-Z])', r'\1 \2', text)
+
+def split_long_tokens(token, min_length=3):
+    """
+    Разделяет длинные токены на подслова, используя словарь английских слов.
+    """
+    result = []
+    current_word = ""
+    for i in range(len(token)):
+        current_word += token[i]
+        if len(current_word) >= min_length and current_word.lower() in english_words:
+            result.append(current_word)
+            current_word = ""
+    if current_word:  # Если остался неразделенный остаток
+        result.append(current_word)
+    return result
 
 def clean_text(input_text):
     """
     Очищает текст от HTML-разметки, специальных символов, чисел и других нежелательных элементов.
+    Также удаляет склеенные токены без использования хардкода.
     """
+
+    # Удаляем HTML-теги, JavaScript-код и ссылки
     clean_text = re.sub(r'<[^>]+>', '', input_text)
     clean_text = re.sub(r'(window\.\w+|function\s*\w*\([^)]*\)|document\.\w+)', '', clean_text)
     clean_text = re.sub(r'http\S+', '', clean_text)
+
+    # Удаляем все символы, кроме букв и пробелов
     clean_text = re.sub(r'[^a-zA-Z\s]', '', clean_text)
+
+    # Удаляем технические токены с помощью регулярного выражения
+    technical_patterns = r'\b\w*(wg|mwparseroutput|true|false|edit|url|class|output|config|schema|token|namespace)\w*\b'
+    clean_text = re.sub(technical_patterns, '', clean_text)
+
+    # Разделяем CamelCase
+    clean_text = split_camel_case(clean_text)
+
+    # Приводим текст к нижнему регистру
     clean_text = clean_text.lower()
-    return clean_text
+
+    # Разделяем длинные токены и удаляем склеенные
+    tokens = clean_text.split()
+    new_tokens = []
+    for token in tokens:
+        if len(token) > 20: 
+            continue
+
+        real_word_count = sum(
+            1 for i in range(len(token)) 
+            for min_length in [3, 4, 5] 
+            if token[i:i + min_length].lower() in english_words
+        )
+        word_density = real_word_count / max(1, len(token)) 
+
+        if word_density < 0.3: 
+            continue
+
+        new_tokens.append(token)
+
+    return ' '.join(new_tokens)
 
 def tokenize_and_clean(text):
     """
     Выполняет токенизацию текста и удаляет стоп-слова и короткие слова.
     """
-    # Токенизация текста с явным указанием языка
     tokens = word_tokenize(text, language='english')
     
-    # Фильтрация токенов: удаляем стоп-слова, короткие слова и числа
     filtered_tokens = [
         token for token in tokens 
         if token not in english_stopwords and len(token) > 2 and token.isalpha()
     ]
+    
     return filtered_tokens
 
 def lemmatize_tokens(tokens):

@@ -1,11 +1,5 @@
-abackgroundsizecontainpadding abackgroundsizecontainpadding
-abackgroundurluploadwikimediaorgwikipediacommonsaaalockredaltsvgright abackgroundurluploadwikimediaorgwikipediacommonsaaalockredaltsvgright
-abackgroundurluploadwikimediaorgwikipediacommonscwikisourcelogosvgright abackgroundurluploadwikimediaorgwikipediacommonscwikisourcelogosvgright
-abackgroundurluploadwikimediaorgwikipediacommonsddlockgrayaltsvgright abackgroundurluploadwikimediaorgwikipediacommonsddlockgrayaltsvgright
-abackgroundurluploadwikimediaorgwikipediacommonslockgreensvgright abackgroundurluploadwikimediaorgwikipediacommonslockgreensvgright
 abel abel
 abler abler
-abodynotskintimelessnotskinminerva abodynotskintimelessnotskinminerva
 accepted accepted
 accompanied accompanied
 according according
@@ -22,17 +16,16 @@ afterward afterward
 agent agent
 agree agree
 alexander alexander
+alike alike
 allegany allegany
 allegheny allegheny
 alphabet alphabet
 also also
-alsoedit alsoedit
 amended amended
+america america
 american american
-americaseneca americaseneca
 among among
 amp amp
-amwparseroutput amwparseroutput
 andover andover
 andrew andrew
 annual annual
@@ -49,8 +42,6 @@ area area areas
 around around
 arrival arrival
 article article articles
-articleabout articleabout
-articletalk articletalk
 asenath asenath
 asher asher
 assistance assistance
@@ -58,15 +49,13 @@ assistant assistants
 associated associated
 attached attached
 attempt attempt
-attributioncommons attributioncommons
-attributionsharealike attributionsharealike
+attribution attribution
 august august
 available available
 background background
-backgroundedit backgroundedit
 backus backus
 baker baker
-baptist baptists
+baptist baptist baptists
 became became
 becoming becoming
 began began
@@ -79,6 +68,7 @@ bingham bingham
 biography biography
 bishop bishop
 board board
+boardof boardof
 book book books
 born born
 boston boston
@@ -107,9 +97,8 @@ center center
 centered centered
 centerpx centerpx
 century century
-change change
+change change changes
 changed changed
-changesupload changesupload
 chapin chapin
 charge charge
 charles charles
@@ -121,9 +110,9 @@ christopher christopher
 church church
 circa circa
 citation citation
-citationtargetbackgroundcolorrgbamwparseroutput citationtargetbackgroundcolorrgbamwparseroutput
 cite cite
-citecitationfontstyleinheritwordwrapbreakwordmwparseroutput citecitationfontstyleinheritwordwrapbreakwordmwparseroutput
+citebook citebook
+citejournal citejournal
 citerefabler citerefabler
 citerefbellin citerefbellin
 citerefchapin citerefchapin
@@ -137,13 +126,12 @@ citerefhauptman citerefhauptman
 citerefhowland citerefhowland
 citerefnicholas citerefnicholas
 citerefround citerefround
-citerefsmithsonianinstitutionboardofregents citerefsmithsonianinstitutionboardofregents
+citerefsmithsonian citerefsmithsonian
 citerefstrickland citerefstrickland
 citereftrippe citereftrippe
 citerefwallace citerefwallace
 civilization civilization
 clark clark
-classnameclientjs classnameclientjs
 clear clear
 clinton clinton
 coadjutor coadjutor
@@ -155,7 +143,6 @@ commenced commenced
 commending commending
 commissioner commissioners
 common commons
-commonswikidata commonswikidata
 company company
 compelled compelled
 compiled compiled
@@ -174,7 +161,7 @@ context context
 continent continent
 continued continued
 contribute contribute
-contributionstalk contributionstalk
+contribution contributions
 control control
 convert convert
 cookie cookie
@@ -190,19 +177,13 @@ crane crane
 create create
 creative creative
 creek creek
-cscodecolorinheritbackgroundinheritbordernonepaddinginheritmwparseroutput cscodecolorinheritbackgroundinheritbordernonepaddinginheritmwparseroutput
-csformatfontsizehtmlskinthemeclientprefnight csformatfontsizehtmlskinthemeclientprefnight
-cshiddenerrordisplaynonecolorvarcolorerrordmwparseroutput cshiddenerrordisplaynonecolorvarcolorerrordmwparseroutput
-cskernleftpaddingleftemmwparseroutput cskernleftpaddingleftemmwparseroutput
-cskernrightpaddingrightemmwparseroutput cskernrightpaddingrightemmwparseroutput
+csmaintcolorf csmaintcolorf
 csmaintcolorfmedia csmaintcolorfmedia
-csmaintcolorfoclc csmaintcolorfoclc
-csmaintdisplaynonecolormarginleftemmwparseroutput csmaintdisplaynonecolormarginleftemmwparseroutput
-csvisibleerrorcolorvarcolorerrordmwparseroutput csvisibleerrorcolorvarcolorerrordmwparseroutput
 cswsicon cswsicon
 cultivation cultivation
 culture culture
 cumming cumming
+current current
 dartmouth dartmouth
 date dates
 dated dated
@@ -216,12 +197,10 @@ densmore densmore
 department department
 describe describe
 description description
-descriptionshort descriptionshort
 detail detail
 developed developed
 developer developers
 developing developing
-dewitt dewitt
 dictionary dictionary
 died died
 dinwoodie dinwoodie
@@ -241,9 +220,6 @@ earliest earliest
 early early
 east east
 edit edit
-editcommunity editcommunity
-edited edited
-editor editors
 edward edward
 effort efforts
 efn efn
@@ -260,19 +236,18 @@ encompass encompass
 encyclopedia encyclopedia
 ended ended
 english english
-englishsource englishsource
 entered entered
 entitled entitled
 entry entry
-enwikimwclientpreferencesifcookiecookiesplitcforeachclassnameclassnamereplacenew enwikimwclientpreferencesifcookiecookiesplitcforeachclassnameclassnamereplacenew
 erecting erecting
 erie erie
 establish establish
 established established
 establishment establishment
-eventsrandom eventsrandom
+event events
 everything everything
 evinced evinced
+exp exp
 expelled expelled
 experience experiences
 explains explains
@@ -284,8 +259,7 @@ family family
 farmer farmer
 february february
 fenton fenton
-filepermanent filepermanent
-filespecial filespecial
+file file
 filled filled
 first first
 five five
@@ -311,6 +285,7 @@ gave gave
 gazetteer gazetteer
 general general
 george george
+get get
 gilman gilman
 given given
 government government
@@ -331,11 +306,11 @@ hdlcoo hdlcoo
 head head
 headquarters headquarters
 health health
-helplearn helplearn
+help help
 henderson henderson
 henry henry
 herald herald
-hererelated hererelated
+hidden hidden
 hide hide
 historian historians
 historical historical
@@ -353,23 +328,19 @@ idea idea
 idlockfree idlockfree
 idlockfreeidlockfree idlockfreeidlockfree
 idlocklimited idlocklimited
-idlocklimitedidlocklimited idlocklimitedidlocklimited
 idlockregistration idlockregistration
-idlockregistrationidlockregistration idlockregistrationidlockregistration
 idlocksubscription idlocksubscription
-idlocksubscriptionidlocksubscription idlocksubscriptionidlocksubscription
 ill ill
 important important
 improvement improvement
 inc inc
-inclogotypeimageobjecturl inclogotypeimageobjecturl
 include include
 including including
 incorporates incorporates
 incursion incursions
 indian indian indians
 indigenous indigenous
-informationcite informationcite
+information information
 initially initially
 institution institution institutions
 intending intending
@@ -389,7 +360,6 @@ itinerant itinerant
 jabez jabez
 jacket jacket
 jacob jacob
-jaguhnigoagesgwathahin jaguhnigoagesgwathahin
 james james
 january january
 jasper jasper
@@ -434,9 +404,6 @@ license license
 licentiate licentiate
 linguistic linguistic
 link link links
-linkpage linkpage
-linksedit linksedit
-lipagebreakinsideavoidbreakinsideavoidcolumnmwparseroutput lipagebreakinsideavoidbreakinsideavoidcolumnmwparseroutput
 literature literature
 lithograph lithograph
 lived lived
@@ -477,12 +444,9 @@ midth midth
 mile miles
 minister minister
 ministry ministry
-ministryedit ministryedit
 miss miss
 mission mission missions
 missionary missionaries missionary
-missionurl missionurl
-missionwgcurrevisionidwgrevisionidwgarticleidwgisarticletruewgisredirectfalsewgactionviewwgusernamenullwgusergroupswgcategoriesarticles missionwgcurrevisionidwgrevisionidwgarticleidwgisarticletruewgisredirectfalsewgactionviewwgusernamenullwgusergroupswgcategoriesarticles
 mobile mobile
 modern modern
 month months
@@ -490,8 +454,6 @@ monthly monthly
 morton morton
 move move
 moved moved
-mwparseroutput mwparseroutput
-mwselflinkfontweightinheritmedia mwselflinkfontweightinheritmedia
 nancy nancy
 nation nation nations
 native native natives
@@ -500,7 +462,6 @@ near near
 neighboring neighboring
 new new
 newhall newhall
-newyork newyork
 next next
 niagara niagara
 niagaraa niagaraa
@@ -509,17 +470,13 @@ nine nine
 nineteen nineteen
 ninth ninth
 nnarticlewhitelist nnarticlewhitelist
-nncachereportoriginmwapiintcodfwmainddbbmrfwtimestampttltransientcontentfalse nncachereportoriginmwapiintcodfwmainddbbmrfwtimestampttltransientcontentfalse
 nnciterefpatterns nnciterefpatterns
 nntemplatelist nntemplatelist
 nonprofit nonprofit
-norepeatbodynotskintimelessnotskinminerva norepeatbodynotskintimelessnotskinminerva
-norepeatmwparseroutput norepeatmwparseroutput
 north north
 note notes
 noted noted
 notelist notelist
-notesedit notesedit
 notice notice
 november november
 number number
@@ -530,7 +487,6 @@ october october
 office office
 official officials
 ogden ogden
-olmargintopmwparseroutput olmargintopmwparseroutput
 one one
 oneida oneida
 opened opened
@@ -539,12 +495,12 @@ opposed opposed
 orator orator
 order order
 organization organization
+organizationname organizationname
 others others
 overlapped overlapped
 pagan pagan pagans
 page page pages
-pagecontentscurrent pagecontentscurrent
-pageget pageget
+pagetype pagetype
 parallel parallel
 parrish parrish
 passed passed
@@ -569,7 +525,7 @@ policy policy
 politics politics
 pollard pollard
 population population
-portalrecent portalrecent
+portal portal
 possessed possessed
 possession possession
 possible possible
@@ -577,9 +533,6 @@ post post
 power power
 practicing practicing
 preacher preacher
-prefclassnameclassnamerlconfwgbreakframesfalsewgseparatortransformtablewgdigittransformtablewgdefaultdateformatdmywgmonthnamesjanuaryfebruarymarchaprilmayjunejulyaugustseptemberoctobernovemberdecemberwgrequestidbaadabfbfbwgcanonicalnamespacewgcanonicalspecialpagenamefalsewgnamespacenumberwgpagenamesenecamissionwgtitleseneca prefclassnameclassnamerlconfwgbreakframesfalsewgseparatortransformtablewgdigittransformtablewgdefaultdateformatdmywgmonthnamesjanuaryfebruarymarchaprilmayjunejulyaugustseptemberoctobernovemberdecemberwgrequestidbaadabfbfbwgcanonicalnamespacewgcanonicalspecialpagenamefalsewgnamespacenumberwgpagenamesenecamissionwgtitleseneca
-preferscolorschemedarkhtmlskinthemeclientprefos preferscolorschemedarkhtmlskinthemeclientprefos
-prefreplaceclientprefwwgclientprefw prefreplaceclientprefwwgclientprefw
 presbyterian presbyterian
 presbyterianism presbyterianism
 presbytery presbytery
@@ -595,32 +548,31 @@ printer printer
 printexport printexport
 printing printing
 privacy privacy
+pro pro
 proceeding proceedings
 proclaimed proclaimed
 profile profile
 project projects
-projectspublishertypeorganizationnamewikimedia projectspublishertypeorganizationnamewikimedia
 propagating propagating
 proposal proposals
-proquest proquest
 protestant protestant
 prudent prudent
-pseudobaptist pseudobaptist
+pseudo pseudo
 public public
 publication publication publications
 published published
 purchase purchase
-qquotesmwparseroutput qquotesmwparseroutput
 quaker quaker quakers
 quarterly quarterly
+quest quest
 question question
 rand rand
 randolph randolph
+random random
 raymond raymond
 reached reached
-readeditview readeditview
+read read
 reading reading
-readingedit readingedit
 rebecca rebecca
 rebirth rebirth
 receive receive
@@ -632,25 +584,14 @@ record record
 red red
 reeve reeve
 reference references
-referencesedit referencesedit
-referencesfontsizemarginbottomliststyletypeinheritmwparseroutput referencesfontsizemarginbottomliststyletypeinheritmwparseroutput
 refers refers
 reflist reflist
 reflistcolumns reflistcolumns
-reflistcolumnscolumnwidthemmwparseroutput reflistcolumnscolumnwidthemmwparseroutput
-reflistcolumnsmargintopemmwparseroutput reflistcolumnsmargintopemmwparseroutput
-reflistfontsizemwparseroutput reflistfontsizemwparseroutput
-reflistloweralphaliststyletypeloweralphamwparseroutput reflistloweralphaliststyletypeloweralphamwparseroutput
-reflistlowergreekliststyletypelowergreekmwparseroutput reflistlowergreekliststyletypelowergreekmwparseroutput
-reflistlowerromanliststyletypelowerroman reflistlowerromanliststyletypelowerroman
-reflistmarginbottomemliststyletypedecimalmedia reflistmarginbottomemliststyletypedecimalmedia
-reflistupperalphaliststyletypeupperalphamwparseroutput reflistupperalphaliststyletypeupperalphamwparseroutput
-reflistupperromanliststyletypeupperromanmwparseroutput reflistupperromanliststyletypeupperromanmwparseroutput
 refused refused
+reg reg
 regained regained
 regarding regarding
 regent regents
-regexp regexp
 registered registered
 rejected rejected
 rejectedb rejectedb
@@ -676,9 +617,6 @@ return return
 returned returned
 right right
 rise rise
-rlqpushmwconfigsetwghostnamemwwebeqiadmainfpnscwgbackendresponsetimewgpageparsereportlimitreportcputimewalltimeppvisitednodesvaluelimitpostexpandincludesizevaluelimittemplateargumentsizevaluelimitexpansiondepthvaluelimitexpensivefunctioncountvaluelimitunstripdepthvaluelimitunstripsizevaluelimitentityaccesscountvaluelimittimingprofile rlqpushmwconfigsetwghostnamemwwebeqiadmainfpnscwgbackendresponsetimewgpageparsereportlimitreportcputimewalltimeppvisitednodesvaluelimitpostexpandincludesizevaluelimittemplateargumentsizevaluelimitexpansiondepthvaluelimitexpensivefunctioncountvaluelimitunstripdepthvaluelimitunstripsizevaluelimitentityaccesscountvaluelimittimingprofile
-rlqpushmwloaderimplreturnuseroptionssimwusertokenssetpatroltokenwatchtokencsrftoken rlqpushmwloaderimplreturnuseroptionssimwusertokenssetpatroltokenwatchtokencsrftoken
-rlstateextglobalcssjsuserstylesreadysitestylesreadyuserstylesreadyextglobalcssjsuserreadyuserreadyuseroptionsloadingextcitestylesreadyskinsvectorsearchcodexstylesreadyskinsvectorstylesreadyskinsvectoriconsreadyextwikimediamessagesstylesreadyextvisualeditordesktoparticletargetnoscriptreadyextulsinterlanguagereadywikibaseclientinitreadyrlpagemodulesextciteuxenhancementsmediawikipagemediaextscribuntologssitemediawikipagereadymediawikitocskinsvectorjsextcentralnoticegeoipextcentralnoticestartupextgadgetreferencetooltipsextgadgetswitcherexturlshortenertoolbarextcentralauthcentralautologinmmvbootstrapextpopupsextvisualeditordesktoparticletargetinitextvisualeditortargetloaderextechocentralauthexteventloggingextwikimediaeventsextnavigationtimingextulsinterfaceextcxeventloggingcampaignsextcxulsquickactionswikibaseclientvectorextcheckuserclienthintsextgrowthexperimentssuggestededitsession rlstateextglobalcssjsuserstylesreadysitestylesreadyuserstylesreadyextglobalcssjsuserreadyuserreadyuseroptionsloadingextcitestylesreadyskinsvectorsearchcodexstylesreadyskinsvectorstylesreadyskinsvectoriconsreadyextwikimediamessagesstylesreadyextvisualeditordesktoparticletargetnoscriptreadyextulsinterlanguagereadywikibaseclientinitreadyrlpagemodulesextciteuxenhancementsmediawikipagemediaextscribuntologssitemediawikipagereadymediawikitocskinsvectorjsextcentralnoticegeoipextcentralnoticestartupextgadgetreferencetooltipsextgadgetswitcherexturlshortenertoolbarextcentralauthcentralautologinmmvbootstrapextpopupsextvisualeditordesktoparticletargetinitextvisualeditortargetloaderextechocentralauthexteventloggingextwikimediaeventsextnavigationtimingextulsinterfaceextcxeventloggingcampaignsextcxulsquickactionswikibaseclientvectorextcheckuserclienthintsextgrowthexperimentssuggestededitsession
 roman roman
 root root
 round round
@@ -688,7 +626,6 @@ say says
 school school schools
 schoolteacher schoolteacher
 screen screen
-screenmwparseroutput screenmwparseroutput
 search search
 second second
 see see
@@ -706,15 +643,16 @@ several several
 severance severance
 sfn sfn
 shaping shaping
+share share
 sheldon sheldon
 short short
+shortdescription shortdescription
 shortened shortened
 showing showing
 sidebar sidebar
 silas silas
 site site
 six six
-skinthemeclientprefday skinthemeclientprefday
 small small
 smithsonian smithsonian
 society societies society
@@ -722,7 +660,7 @@ societyc societyc
 sometimes sometimes
 soon soon
 source source sources
-sourcesedit sourcesedit
+special special
 spelling spelling
 spent spent
 spnd spnd
@@ -730,7 +668,6 @@ spoke spoke
 square square
 staff staff
 state state states
-statechristian statechristian
 statement statement
 station station
 statistic statistics
@@ -752,16 +689,9 @@ suspicious suspicious
 syracuse syracuse
 system system systems
 table table
+talk talk
 teacher teacher
-templatecataloglookuplinkscribuntolimitreporttimeusagevaluelimitlimitreportmemusagevaluelimitlimitreportlogsanchoridlist templatecataloglookuplinkscribuntolimitreporttimeusagevaluelimitlimitreportmemusagevaluelimitlimitreportlogsanchoridlist
-templatecitebook templatecitebook
-templatecitejournal templatecitejournal
-templateefn templateefn
-templateoclc templateoclc
-templatepagetype templatepagetype
-templatereflist templatereflist
-templatesfn templatesfn
-templateshortdescription templateshortdescription
+template template
 ten ten
 term terms
 territory territory
@@ -794,6 +724,7 @@ ultimately ultimately
 united united
 university university
 unsuccessful unsuccessful
+upload upload
 upon upon
 upright upright
 urldownload urldownload
@@ -802,18 +733,6 @@ using using
 utc utc
 van van
 var var
-vectorfeatureappearancepinnedclientpref vectorfeatureappearancepinnedclientpref
-vectorfeaturecustomfontsizeclientpref vectorfeaturecustomfontsizeclientpref
-vectorfeaturelanguageinheaderenabled vectorfeaturelanguageinheaderenabled
-vectorfeaturelanguageinmainpageheaderdisabled vectorfeaturelanguageinmainpageheaderdisabled
-vectorfeaturelimitedwidthclientpref vectorfeaturelimitedwidthclientpref
-vectorfeaturelimitedwidthcontentenabled vectorfeaturelimitedwidthcontentenabled
-vectorfeaturemainmenupinneddisabled vectorfeaturemainmenupinneddisabled
-vectorfeaturenightmodeenabled vectorfeaturenightmodeenabled
-vectorfeaturepagetoolspinneddisabled vectorfeaturepagetoolspinneddisabled
-vectorfeaturetocpinnedclientpref vectorfeaturetocpinnedclientpref
-vectorstickyheaderenabled vectorstickyheaderenabled
-vectortocavailablevar vectortocavailablevar
 vermont vermont
 version version
 view view views
@@ -837,12 +756,11 @@ white white
 wife wife
 wikidata wikidata
 wikidatath wikidatath
-wikidatause wikidatause
 wikimedia wikimedia
 wikipedia wikipedia
-wikipediacontact wikipediacontact
 william william
 witchcraft witchcraft
+witt witt
 woodstock woodstock
 work work
 wright wright wrights
@@ -851,6 +769,4 @@ written written
 wrote wrote
 year year years
 york york yorks
-yorkhidden yorkhidden
-yorkwgpageviewlanguageenwgpagecontentlanguageenwgpagecontentmodelwikitextwgrelevantpagenamesenecamissionwgrelevantarticleidwgisprobablyeditabletruewgrelevantpageisprobablyeditabletruewgrestrictioneditwgrestrictionmovewgnoticeprojectwikipediawgcitereferencepreviewsactivefalsewgflaggedrevsparamstagsstatuslevelswgmediavieweronclicktruewgmediaviewerenabledbydefaulttruewgpopupsflagswgvisualeditorpagelanguagecodeenpagelanguagedirltrpagevariantfallbacksenwgmfdisplaywikibasedescriptionssearchtruewatchlisttruetaglinefalsenearbytruewgwmeschemaeditattemptstepoversamplefalsewgwmepagelengthwgeditsubmitbuttonlabelpublishtruewgulspositioninterlanguagewgulsiscompactlinksenabledfalsewgvectorlanguageinheadertruewgulsislanguageselectoremptyfalsewgwikibaseitemidqwgcheckuserclienthintsheadersjsapibrandsarchitecturebitnessfullversionlistmobilemodelplatformplatformversiongehomepagesuggestededitsenabletopicstruewggetopicsmatchmodeenabledfalsewggelevelingupenabledforuserfalse yorkwgpageviewlanguageenwgpagecontentlanguageenwgpagecontentmodelwikitextwgrelevantpagenamesenecamissionwgrelevantarticleidwgisprobablyeditabletruewgrelevantpageisprobablyeditabletruewgrestrictioneditwgrestrictionmovewgnoticeprojectwikipediawgcitereferencepreviewsactivefalsewgflaggedrevsparamstagsstatuslevelswgmediavieweronclicktruewgmediaviewerenabledbydefaulttruewgpopupsflagswgvisualeditorpagelanguagecodeenpagelanguagedirltrpagevariantfallbacksenwgmfdisplaywikibasedescriptionssearchtruewatchlisttruetaglinefalsenearbytruewgwmeschemaeditattemptstepoversamplefalsewgwmepagelengthwgeditsubmitbuttonlabelpublishtruewgulspositioninterlanguagewgulsiscompactlinksenabledfalsewgvectorlanguageinheadertruewgulsislanguageselectoremptyfalsewgwikibaseitemidqwgcheckuserclienthintsheadersjsapibrandsarchitecturebitnessfullversionlistmobilemodelplatformplatformversiongehomepagesuggestededitsenabletopicstruewggetopicsmatchmodeenabledfalsewggelevelingupenabledforuserfalse
 young young youngs
