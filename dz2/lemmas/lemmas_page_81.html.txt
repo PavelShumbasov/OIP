@@ -182,8 +182,6 @@ cite cite
 citeweb citeweb
 city city
 civic civic
-classic classic
-classical classical
 clef clef
 clip clip
 closeout closeout
@@ -311,8 +309,6 @@ ecuador ecuador
 eddie eddie
 edge edge
 edison edison edisons
-edit edit
-edition editions
 educational educational
 emission emissions
 encyclopedia encyclopedia
@@ -1122,7 +1118,6 @@ unsourced unsourced
 unstoppable unstoppable
 upload upload
 urban urban
-urldownload urldownload
 uruguayan uruguayan
 use use
 used used

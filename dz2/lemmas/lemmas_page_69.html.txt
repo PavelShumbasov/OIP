@@ -123,7 +123,6 @@ child children
 citation citation citations
 cite cite
 citeweb citeweb
-class class
 cnn cnn
 coach coaches
 cochairman cochairman
@@ -203,7 +202,6 @@ early early
 earned earned
 economic economic
 edgardo edgardo
-edit edit
 eduardo eduardo
 education education
 edwin edwin
@@ -639,7 +637,6 @@ university university
 unofficially unofficially
 unsourced unsourced
 upload upload
-urldownload urldownload
 use use
 using using
 usna usna

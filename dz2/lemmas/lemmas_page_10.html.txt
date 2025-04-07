@@ -239,8 +239,6 @@ dsc dsc
 dtaftercontent dtaftercontent
 durga durga
 ebnezar ebnezar
-edit edit
-edith edith
 encyclopedia encyclopedia
 english english
 erach erach
@@ -893,7 +891,6 @@ untreated untreated
 upadhyaya upadhyaya
 upendra upendra
 upload upload
-urldownload urldownload
 use use
 usha usha
 using using

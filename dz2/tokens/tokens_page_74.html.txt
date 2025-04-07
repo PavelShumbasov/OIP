@@ -385,7 +385,6 @@ earthshock
 easily
 eater
 echo
-edit
 edward
 effective
 effort
@@ -1346,7 +1345,6 @@ unsourced
 unwittingly
 upload
 upon
-urldownload
 us
 use
 used

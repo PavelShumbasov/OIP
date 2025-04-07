@@ -238,7 +238,6 @@ eaton eaton
 eco eco
 economic economic
 ed eds
-edit edit
 education education
 effort efforts
 egypt egypt
@@ -791,7 +790,6 @@ university universities university
 update update
 updating updating
 upload upload
-urldownload urldownload
 use use
 using using
 usman usman

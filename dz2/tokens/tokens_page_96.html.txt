@@ -186,7 +186,6 @@ citerefloir
 city
 cixi
 cjkv
-class
 clique
 closely
 coal
@@ -298,7 +297,6 @@ east
 eccp
 economical
 ed
-edit
 edmond
 education
 effort
@@ -1063,7 +1061,6 @@ university
 upgrading
 upload
 urgency
-urldownload
 us
 use
 using

@@ -230,7 +230,6 @@ duty duties
 early early
 east east
 edina edina
-edit edit
 education education
 edward edward
 effect effects
@@ -678,7 +677,6 @@ united united
 university university
 upload upload
 upon upon
-urldownload urldownload
 usdenomination usdenomination
 usdied usdied
 use use

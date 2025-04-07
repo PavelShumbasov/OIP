@@ -289,7 +289,6 @@ citeweb citeweb
 city city
 clarinet clarinet
 clark clark
-classic classic
 clay clay
 climb climb
 clock clock
@@ -467,8 +466,6 @@ east east
 eating eating
 ebata ebata
 edge edge
-edit edit
-edition edition
 edm edm
 efor efor
 eiichiro eiichiro
@@ -1786,7 +1783,6 @@ triplane triplane
 triumph triumph
 trombone trombone
 trouble trouble
-true true
 trump trump
 trumpet trumpet
 trumpeting trumpeting
@@ -1802,7 +1798,6 @@ ttatsuten ttatsuten
 tuba tuba
 turn turn
 turtle turtle
-tvedit tvedit
 tvserie tvserie
 tvseries tvseries
 tvxq tvxq
@@ -1823,7 +1818,6 @@ untergehen untergehen
 upload upload
 upon upon
 upsurge upsurge
-urldownload urldownload
 us uses
 usb usb
 use use

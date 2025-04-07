@@ -178,7 +178,6 @@ cite cite
 citecertification citecertification
 citeweb citeweb
 clarkson clarkson
-classic classic
 clean clean
 clip clip
 closed closed
@@ -302,7 +301,6 @@ dynamite dynamite
 earlier earlier
 earlytomid earlytomid
 eat eat
-edit edit
 eliscu eliscu
 else else
 emotional emotional
@@ -1093,8 +1091,6 @@ upbeat upbeat
 upload upload
 upon upon
 upscale upscale
-urldownload urldownload
-urlwebarchive urlwebarchive
 usage usages
 use use
 used used

@@ -266,7 +266,6 @@ eagle eagle
 echo echoes
 eddie eddie
 edinburgh edinburgh edinburghs
-edit edit
 edwin edwin
 electric electric
 eleven elevens
@@ -825,7 +824,6 @@ unseen unseen
 unsourced unsourced
 upload upload
 upon upon
-urldownload urldownload
 use use
 used used
 using using

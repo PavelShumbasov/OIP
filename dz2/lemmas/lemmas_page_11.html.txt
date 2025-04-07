@@ -536,7 +536,6 @@ eburata eburata
 ecdytolopha ecdytolopha
 eclipsana eclipsana
 edemoidana edemoidana
-edit edit
 ednana ednana
 edwardsiana edwardsiana
 effectively effectively
@@ -1789,7 +1788,6 @@ united united
 unplaced unplaced
 updated updated
 upload upload
-urldownload urldownload
 urnigera urnigera
 use use
 using using

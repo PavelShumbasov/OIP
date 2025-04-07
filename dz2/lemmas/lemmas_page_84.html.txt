@@ -166,8 +166,6 @@ dtaftercontent dtaftercontent
 dumb dumb
 dunn dunn
 dvd dvd
-edit edit
-edited edited
 encountered encountered
 encyclopedia encyclopedia
 end end ends
@@ -626,7 +624,6 @@ union union
 unknown unknown
 upload upload
 urge urges
-urldownload urldownload
 use use
 using using
 utc utc

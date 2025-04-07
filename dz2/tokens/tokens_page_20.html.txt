@@ -120,7 +120,6 @@ citation
 cite
 citebook
 civil
-classical
 cleared
 code
 collapse
@@ -209,7 +208,6 @@ economist
 economy
 ecuador
 ed
-edit
 effect
 effective
 egyptian
@@ -700,7 +698,6 @@ united
 university
 upload
 upon
-urldownload
 uruguay
 use
 using

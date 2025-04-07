@@ -147,7 +147,6 @@ due due
 early early
 east east
 easy easy
-edit edit
 encyclopedia encyclopedia
 end end
 england england
@@ -526,8 +525,6 @@ underground underground
 unintentional unintentional
 united united
 upload upload
-urldownload urldownload
-urlwikipedia urlwikipedia
 use use
 usheightft usheightft
 using using

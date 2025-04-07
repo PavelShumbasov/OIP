@@ -307,7 +307,6 @@ earth earth
 east east
 eastern eastern
 ed eds
-edit edit
 edwin edwin
 eesti eesti
 effective effective
@@ -1111,7 +1110,6 @@ trimurti trimurti
 triratna triratna
 trishula trishula
 trke trke
-true true
 tukdam tukdam
 tva tva
 two two
@@ -1137,7 +1135,6 @@ upaya upaya
 upload upload
 upon upon
 uralic uralic
-urldownload urldownload
 urumi urumi
 us uses
 use use

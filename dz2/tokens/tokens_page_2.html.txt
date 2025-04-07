@@ -93,7 +93,6 @@ choose
 citation
 cite
 citeweb
-classic
 clone
 closed
 cluster
@@ -216,8 +215,6 @@ easy
 eating
 ebusiness
 economic
-edit
-edition
 effect
 efficiently
 either
@@ -742,7 +739,6 @@ unsourced
 upgrade
 upgraded
 upload
-urldownload
 use
 used
 user

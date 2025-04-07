@@ -123,8 +123,6 @@ citeweb citeweb
 citron citron
 civil civil
 clarke clarke
-class class classes
-classic classic
 clausager clausager
 clifford clifford
 clment clment
@@ -218,7 +216,6 @@ eccles eccles
 ecclesprivate ecclesprivate
 eddie eddie
 edgar edgar
-edit edit
 edouard edouard
 election election
 electoral electoral
@@ -790,7 +787,6 @@ unique unique
 unrest unrest
 upheaval upheaval
 upload upload
-urldownload urldownload
 use use
 used used
 using using

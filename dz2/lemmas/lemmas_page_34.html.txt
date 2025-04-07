@@ -139,7 +139,6 @@ citebook citebook
 citenews citenews
 city city
 civil civil
-classical classical
 code code
 coincide coincide
 comb comb
@@ -235,7 +234,6 @@ dutch dutch
 dutchlanguage dutchlanguage
 east east
 eastern eastern
-edit edit
 education education
 einai einai
 eleftheria eleftheria
@@ -867,7 +865,6 @@ university university
 unlike unlike
 update update
 upload upload
-urldownload urldownload
 us uses
 use use
 used used

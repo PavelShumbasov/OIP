@@ -150,7 +150,6 @@ draw
 drawing
 dtaftercontent
 echeverri
-edit
 eligibility
 encyclopedia
 english
@@ -529,7 +528,6 @@ unin
 unsourced
 updated
 upload
-urldownload
 uru
 uruguay
 use

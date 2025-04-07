@@ -85,7 +85,6 @@ citationneeded citationneeded
 cite cite
 citenews citenews
 city cities city
-classic classic
 code code
 colombo colombo
 comfort comfort
@@ -150,8 +149,6 @@ download download
 easily easily
 eastern eastern
 edirisuriya edirisuriya
-edit edit
-editorial editorial
 efficiency efficiency
 employee employees
 employeescitation employeescitation
@@ -583,7 +580,6 @@ unprofitable unprofitable
 unsourced unsourced
 upload upload
 urban urban
-urldownload urldownload
 us uses
 use use
 usedmydates usedmydates

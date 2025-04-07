@@ -198,7 +198,6 @@ earned
 east
 eberhard
 ecaterina
-edit
 efn
 eizo
 elena
@@ -710,7 +709,6 @@ unprecedented
 upandcoming
 upload
 ur
-urldownload
 usa
 use
 using

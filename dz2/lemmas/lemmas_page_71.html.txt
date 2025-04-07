@@ -146,7 +146,6 @@ drulovi drulovi
 dtaftercontent dtaftercontent
 eagle eagles
 east east
-edit edit
 eintracht eintracht
 eki eki
 eligible eligible
@@ -571,7 +570,6 @@ universiade universiade
 university university
 upload upload
 urevi urevi
-urldownload urldownload
 uro uro
 use use
 using using

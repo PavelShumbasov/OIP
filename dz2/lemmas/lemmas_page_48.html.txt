@@ -243,8 +243,6 @@ cjfash cjfash
 claim claim
 clarki clarki
 clarkii clarkii
-class class
-classroom classroom
 clay clay
 clean clean
 clear clear
@@ -421,7 +419,6 @@ ecosystem ecosystems
 edbe edbe
 edge edges
 edged edged
-edit edit
 eesti eesti
 effect effect effects
 effectively effectively
@@ -1357,7 +1354,6 @@ susceptible susceptible
 sustain sustain
 sutter sutter
 svenska svenska
-swg swg
 syllabus syllabus
 symbol symbols
 synonym synonyms
@@ -1437,7 +1433,6 @@ trotter trotter
 trout trout trouts
 troutstercom troutstercom
 trtaxonrow trtaxonrow
-true true
 trutta trutta
 two two
 tyler tyler
@@ -1462,8 +1457,6 @@ upper upper
 upstate upstate
 upward upward
 urban urban
-urlarticles urlarticles
-urldownload urldownload
 use use
 used used
 using using

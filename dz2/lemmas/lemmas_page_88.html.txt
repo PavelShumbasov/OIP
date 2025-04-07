@@ -409,8 +409,6 @@ eastwood eastwood
 eaux eaux
 economic economic
 edinburgh edinburgh
-edit edit
-editor editors
 education education
 edward edward edwards
 eesti eesti
@@ -1413,7 +1411,6 @@ upload upload
 upon upon
 upper upper
 urge urge
-urldownload urldownload
 use use
 used used
 using using

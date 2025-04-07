@@ -124,7 +124,6 @@ dulvestad dulvestad
 duman duman
 dundalk dundalk
 dvle dvle
-edit edit
 eirik eirik
 ejuke ejuke
 eligibility eligibility
@@ -593,7 +592,6 @@ ullevaal ullevaal
 ulpaddingem ulpaddingem
 updated updated
 upload upload
-urldownload urldownload
 usa usa
 use use
 used used

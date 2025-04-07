@@ -78,7 +78,6 @@ cite cite
 city city
 clarion clarion
 clark clark
-classic classic
 cloud cloud
 cochampions cochampions
 code code
@@ -136,7 +135,6 @@ duluth duluth
 east east
 eastern eastern
 edinboro edinboro
-edit edit
 eligible eligible
 elizabeth elizabeth
 emporium emporia
@@ -472,7 +470,6 @@ university university
 upload upload
 upper upper
 urbana urbana
-urldownload urldownload
 use use
 using using
 utc utc

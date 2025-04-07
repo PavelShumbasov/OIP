@@ -78,7 +78,6 @@ cite
 city
 clarion
 clark
-classic
 cloud
 cochampions
 code
@@ -136,7 +135,6 @@ duluth
 east
 eastern
 edinboro
-edit
 eligible
 elizabeth
 emporium
@@ -472,7 +470,6 @@ university
 upload
 upper
 urbana
-urldownload
 use
 using
 utc

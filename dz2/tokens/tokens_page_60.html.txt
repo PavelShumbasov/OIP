@@ -307,7 +307,6 @@ earth
 east
 eastern
 ed
-edit
 edwin
 eesti
 effective
@@ -1111,7 +1110,6 @@ trimurti
 triratna
 trishula
 trke
-true
 tukdam
 tva
 two
@@ -1137,7 +1135,6 @@ upaya
 upload
 upon
 uralic
-urldownload
 urumi
 us
 use

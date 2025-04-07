@@ -347,7 +347,6 @@ earned
 echeverra
 ecuadorian
 edgar
-edit
 edson
 eduardo
 eesti
@@ -1245,7 +1244,6 @@ unsuccessful
 updated
 upload
 upset
-urldownload
 uru
 uruguay
 uruguayan

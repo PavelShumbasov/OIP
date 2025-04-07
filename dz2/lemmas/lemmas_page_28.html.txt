@@ -128,8 +128,6 @@ compulsion compulsion
 computer computer computers
 conduct conduct
 conference conferences
-configuration configuration
-configure configure
 connect connect
 connection connection
 connectivity connectivity
@@ -204,7 +202,6 @@ dynamic dynamics
 earbuds earbuds
 easy easy
 edge edge
-edit edit
 emma emma
 employee employee
 encyclopedia encyclopedia
@@ -695,7 +692,6 @@ upgradable upgradable
 upgrade upgrade
 upgraded upgraded
 upload upload
-urldownload urldownload
 us uses
 usage usage
 usb usb

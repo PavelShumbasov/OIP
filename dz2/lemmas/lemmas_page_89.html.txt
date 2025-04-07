@@ -101,7 +101,6 @@ dzemajl dzemajl
 echr echr
 ecsr ecsr
 ect ect
-edit edit
 education education
 election elections
 encyclopedia encyclopedia
@@ -329,7 +328,6 @@ tzekov tzekov
 ukraine ukraine
 united united
 upload upload
-urldownload urldownload
 use use
 using using
 utc utc

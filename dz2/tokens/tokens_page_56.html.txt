@@ -85,7 +85,6 @@ citationneeded
 cite
 citenews
 city
-classic
 code
 colombo
 comfort
@@ -150,8 +149,6 @@ download
 easily
 eastern
 edirisuriya
-edit
-editorial
 efficiency
 employee
 employeescitation
@@ -583,7 +580,6 @@ unprofitable
 unsourced
 upload
 urban
-urldownload
 us
 use
 usedmydates

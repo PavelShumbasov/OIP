@@ -106,7 +106,6 @@ citation citation
 cite cite
 citejournal citejournal
 city city
-classification classification
 claude claude
 closely closely
 cobley cobley
@@ -205,11 +204,6 @@ due due
 early early
 eco eco
 ed eds
-edit edit
-editor editor editors
-editorfrom editorfrom
-editorsfrom editorsfrom
-editorsin editorsin
 education education
 edwina edwina
 eero eero
@@ -752,7 +746,6 @@ understood understood
 university university
 upload upload
 urban urban
-urldownload urldownload
 use use
 used used
 user users

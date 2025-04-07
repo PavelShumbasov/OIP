@@ -327,7 +327,6 @@ ecumenical ecumenical
 ecumenism ecumenism
 ed eds
 eden eden
-edit edit
 education education
 educational educational
 eleanor eleanor
@@ -1118,10 +1117,8 @@ universalism universalism
 university university
 unlimited unlimited
 upci upci
-upciclassification upciclassification
 upcis upcis
 upload upload
-urldownload urldownload
 urshan urshan
 usa usa
 usage usage

@@ -192,7 +192,6 @@ dtaftercontent dtaftercontent
 due due
 early early
 eastern eastern
-edit edit
 effect effect effects
 emigrant emigrants
 encyclopedia encyclopedia
@@ -649,7 +648,6 @@ union union
 unsourced unsourced
 uofaru uofaru
 upload upload
-urldownload urldownload
 us uses
 use use
 used used

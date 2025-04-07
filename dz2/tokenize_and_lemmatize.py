@@ -98,13 +98,42 @@ def tokenize_and_clean(text):
 def lemmatize_tokens(tokens):
     """
     Лемматизирует токены и группирует их по леммам.
+    Разделяет склеенные токены перед лемматизацией.
     """
     lemmatized_groups = {}
+    
+    technical_patterns = r'\b\w*(wg|mwparseroutput|true|false|edit|url|class|output|config|schema|token|namespace)\w*\b'
+
     for token in tokens:
-        lemma = lemmatizer.lemmatize(token)
-        if lemma not in lemmatized_groups:
-            lemmatized_groups[lemma] = set()
-        lemmatized_groups[lemma].add(token)
+        if re.search(technical_patterns, token):
+            continue
+
+        if len(token) > 20:
+            continue
+
+        split_tokens = split_camel_case(token).split()
+
+        valid_parts = []
+        for part in split_tokens:
+            real_word_count = sum(
+                1 for i in range(len(part)) 
+                for min_length in [3, 4, 5] 
+                if part[i:i + min_length].lower() in english_words
+            )
+            word_density = real_word_count / max(1, len(part))
+
+            if word_density >= 0.3:
+                valid_parts.append(part)
+
+        if not valid_parts:
+            continue
+
+        for part in valid_parts:
+            lemma = lemmatizer.lemmatize(part)
+            if lemma not in lemmatized_groups:
+                lemmatized_groups[lemma] = set()
+            lemmatized_groups[lemma].add(part)
+
     return lemmatized_groups
 
 def process_files(input_dir, tokens_dir, lemmas_dir):

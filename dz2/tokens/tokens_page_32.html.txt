@@ -123,8 +123,6 @@ citeweb
 citron
 civil
 clarke
-class
-classic
 clausager
 clifford
 clment
@@ -218,7 +216,6 @@ eccles
 ecclesprivate
 eddie
 edgar
-edit
 edouard
 election
 electoral
@@ -790,7 +787,6 @@ unique
 unrest
 upheaval
 upload
-urldownload
 use
 used
 using

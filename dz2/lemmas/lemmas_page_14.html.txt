@@ -268,7 +268,6 @@ early early
 eberle eberle
 eded eded
 edge edges
-edit edit
 education education
 effect effect effects
 effort effort
@@ -793,7 +792,6 @@ uniform uniforms
 united united
 upload upload
 urged urged
-urldownload urldownload
 usa usa
 use use
 used used

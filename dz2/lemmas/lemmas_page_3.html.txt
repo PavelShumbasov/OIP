@@ -42,7 +42,6 @@ citation citation citations
 cite cite
 citenews citenews
 city city
-class class
 code code
 colorado colorado
 common commons
@@ -81,7 +80,6 @@ dottedcursorhelp dottedcursorhelp
 download download
 dtaftercontent dtaftercontent
 dy dies
-edit edit
 edward edward
 elected elected
 election election elections
@@ -316,7 +314,6 @@ ulpaddingem ulpaddingem
 united united
 unsuccessfully unsuccessfully
 upload upload
-urldownload urldownload
 use use
 ushouse ushouse
 using using

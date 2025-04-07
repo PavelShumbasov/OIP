@@ -253,7 +253,6 @@ due due
 dy dies
 edge edge
 edie edie
-edit edit
 education education
 edward edward
 elderly elderly
@@ -924,7 +923,6 @@ unusual unusual
 unwitting unwitting
 upload upload
 uproxx uproxx
-urldownload urldownload
 use use
 using using
 utc utc

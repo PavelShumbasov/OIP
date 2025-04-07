@@ -186,7 +186,6 @@ dtat dtat
 eagle eagle
 economic economic
 economically economically
-edit edit
 egypt egypt egypts
 egyptian egyptian egyptians
 eldeen eldeen
@@ -607,7 +606,6 @@ unrest unrest
 upload upload
 urge urges
 urgent urgent
-urldownload urldownload
 use use
 using using
 utc utc

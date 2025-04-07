@@ -158,7 +158,6 @@ citation
 cite
 cited
 citejournal
-classical
 clay
 clearly
 cliff
@@ -308,7 +307,6 @@ eastern
 easy
 eclipse
 ed
-edit
 eicher
 ejecta
 elevation
@@ -856,7 +854,6 @@ satellite
 saybrook
 scale
 scandia
-schematic
 scheme
 schmitt
 sci
@@ -1034,7 +1031,6 @@ unknown
 upload
 upon
 upper
-urldownload
 usage
 use
 used

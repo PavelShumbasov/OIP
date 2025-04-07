@@ -120,7 +120,6 @@ citation citation
 cite cite
 citebook citebook
 civil civil
-classical classical
 cleared cleared
 code code
 collapse collapse
@@ -209,7 +208,6 @@ economist economist
 economy economy
 ecuador ecuador
 ed eds
-edit edit
 effect effect
 effective effective
 egyptian egyptian
@@ -700,7 +698,6 @@ united united
 university university
 upload upload
 upon upon
-urldownload urldownload
 uruguay uruguay
 use use
 using using

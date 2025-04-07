@@ -194,8 +194,6 @@ download
 dtaftercontent
 dual
 ecstatic
-edit
-edited
 elangovan
 encyclopedia
 end
@@ -710,7 +708,6 @@ upandcoming
 upload
 upon
 urge
-urldownload
 us
 use
 using

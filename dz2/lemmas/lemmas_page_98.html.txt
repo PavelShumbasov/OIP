@@ -256,7 +256,6 @@ citeweb citeweb
 citizenship citizenship
 city city
 civil civil
-classic classic
 clement clement
 cleveland cleveland
 close close
@@ -401,7 +400,6 @@ eagle eagles
 earl earl
 eccleshare eccleshare
 ecology ecology
-edit edit
 eduard eduard
 educator educator
 edward edward
@@ -1351,7 +1349,6 @@ university university
 upload upload
 upon upon
 urbano urbano
-urldownload urldownload
 use use
 using using
 utc utc

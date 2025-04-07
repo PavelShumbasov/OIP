@@ -128,8 +128,6 @@ compulsion
 computer
 conduct
 conference
-configuration
-configure
 connect
 connection
 connectivity
@@ -204,7 +202,6 @@ dynamic
 earbuds
 easy
 edge
-edit
 emma
 employee
 encyclopedia
@@ -695,7 +692,6 @@ upgradable
 upgrade
 upgraded
 upload
-urldownload
 us
 usage
 usb

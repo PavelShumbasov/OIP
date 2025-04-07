@@ -150,7 +150,6 @@ chronicle chronicle
 citation citation
 cite cite
 citeweb citeweb
-class class
 clavelle clavelle
 club club
 coach coach coaches
@@ -250,7 +249,6 @@ earl earl
 earlier earlier
 early early
 edgar edgar
-edit edit
 eleven eleven
 elliott elliott
 emerson emerson
@@ -841,7 +839,6 @@ unity unity
 university university
 unknown unknown
 upload upload
-urldownload urldownload
 use use
 usheightft usheightft
 using using

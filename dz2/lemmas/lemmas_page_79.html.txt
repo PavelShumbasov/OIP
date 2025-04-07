@@ -234,7 +234,6 @@ dtaftercontent dtaftercontent
 early early
 eastern eastern
 ecclesia ecclesia
-edit edit
 education education
 edward edward
 egc egc
@@ -826,7 +825,6 @@ university university
 unsourced unsourced
 upload upload
 upon upon
-urldownload urldownload
 us uses
 use use
 using using

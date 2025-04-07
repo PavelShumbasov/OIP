@@ -144,7 +144,6 @@ citeweb citeweb
 citizenship citizenship
 city city
 civilization civilization
-classification classification
 clip clips
 close closes
 closed closed
@@ -272,7 +271,6 @@ easy easy
 ebrahim ebrahim
 echo echoes
 edicin edicin
-edit edit
 edu edu
 educate educate
 edward edwards
@@ -1033,7 +1031,6 @@ unported unported
 unsourced unsourced
 upload upload
 urdu urdu
-urldownload urldownload
 use use
 used used
 using using

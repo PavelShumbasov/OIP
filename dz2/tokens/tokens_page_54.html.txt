@@ -221,7 +221,6 @@ dvd
 early
 earth
 eclipso
-edit
 effect
 electromagnetic
 elite
@@ -749,7 +748,6 @@ universe
 unpredictable
 unrevealed
 upload
-urldownload
 us
 use
 using

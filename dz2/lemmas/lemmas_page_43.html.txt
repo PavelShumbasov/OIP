@@ -129,7 +129,6 @@ citizen citizens
 city city citys
 cityzen cityzen
 civic civic
-classic classic
 cleveland cleveland
 club club clubs
 cmmi cmmi
@@ -225,7 +224,6 @@ earn earn
 echl echl
 economic economic
 economy economy
-edit edit
 education education
 electrical electrical
 encyclopedia encyclopedia
@@ -731,7 +729,6 @@ united united
 university universities university
 upload upload
 upmc upmc
-urldownload urldownload
 usable usable
 use use
 used used

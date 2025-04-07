@@ -198,7 +198,6 @@ earned earned
 east east
 eberhard eberhard
 ecaterina ecaterina
-edit edit
 efn efn
 eizo eizo
 elena elena
@@ -710,7 +709,6 @@ unprecedented unprecedented
 upandcoming upandcoming
 upload upload
 ur urs
-urldownload urldownload
 usa usa
 use use
 using using

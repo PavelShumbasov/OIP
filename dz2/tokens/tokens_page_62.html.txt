@@ -175,8 +175,6 @@ ebert
 ecic
 economic
 ed
-edit
-edition
 education
 educational
 electronic
@@ -556,7 +554,6 @@ unique
 united
 university
 upload
-urldownload
 us
 use
 used

@@ -149,7 +149,6 @@ dutch dutch
 dwelling dwellings
 dzce dzce
 edirne edirne
-edit edit
 edremit edremit
 elaz elaz
 elbistan elbistan
@@ -501,8 +500,6 @@ unstatsunorg unstatsunorg
 upload upload
 urban urban
 urfa urfa
-urla urla
-urldownload urldownload
 use use
 using using
 ussr ussr

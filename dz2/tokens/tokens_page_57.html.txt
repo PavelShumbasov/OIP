@@ -240,7 +240,6 @@ duktur
 early
 east
 economic
-edit
 education
 educational
 egypt
@@ -786,7 +785,6 @@ university
 unsourced
 upload
 upon
-urldownload
 usa
 use
 using

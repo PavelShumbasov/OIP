@@ -347,7 +347,6 @@ earned earned
 echeverra echeverra
 ecuadorian ecuadorian
 edgar edgar
-edit edit
 edson edson
 eduardo eduardo
 eesti eesti
@@ -1245,7 +1244,6 @@ unsuccessful unsuccessful
 updated updated
 upload upload
 upset upset
-urldownload urldownload
 uru uru
 uruguay uruguay
 uruguayan uruguayan

@@ -149,7 +149,6 @@ dutch
 dwelling
 dzce
 edirne
-edit
 edremit
 elaz
 elbistan
@@ -501,8 +500,6 @@ unstatsunorg
 upload
 urban
 urfa
-urla
-urldownload
 use
 using
 ussr

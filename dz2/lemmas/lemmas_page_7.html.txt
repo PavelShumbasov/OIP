@@ -261,7 +261,6 @@ city cities
 civil civil
 clarke clarke
 clash clash
-class class
 claudius claudius
 cleese cleese
 clifford clifford
@@ -456,7 +455,6 @@ east east
 easter easter
 eddie eddie
 edinburgh edinburgh
-edit edit
 edmonds edmonds
 edmund edmund
 edmunds edmunds
@@ -1533,7 +1531,6 @@ unnatural unnatural
 upcoming upcoming
 upload upload
 upon upon
-urldownload urldownload
 use use
 used used
 using using

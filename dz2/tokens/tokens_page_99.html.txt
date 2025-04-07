@@ -106,7 +106,6 @@ citation
 cite
 citejournal
 city
-classification
 claude
 closely
 cobley
@@ -205,11 +204,6 @@ due
 early
 eco
 ed
-edit
-editor
-editorfrom
-editorsfrom
-editorsin
 education
 edwina
 eero
@@ -752,7 +746,6 @@ understood
 university
 upload
 urban
-urldownload
 use
 used
 user

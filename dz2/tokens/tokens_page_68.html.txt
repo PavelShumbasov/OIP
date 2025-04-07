@@ -195,7 +195,6 @@ earthquake
 east
 eastern
 edge
-edit
 edmonton
 edt
 eljko
@@ -679,8 +678,6 @@ unlikely
 upload
 upon
 ups
-url
-urldownload
 usa
 use
 using

@@ -179,7 +179,6 @@ duplication
 dyck
 ebiacuk
 edda
-edit
 elger
 elisabeth
 emblebi
@@ -671,7 +670,6 @@ ucscgeneinfo
 ulrich
 uncharacterized
 upload
-urldownload
 ursinus
 ursula
 use

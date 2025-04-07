@@ -78,7 +78,6 @@ citation citation
 cite cite
 citenews citenews
 clark clark
-classic classic
 clear clear
 coach coach coaches
 code code
@@ -145,7 +144,6 @@ due due
 dyche dyche
 eagle eagles
 earned earned
-edit edit
 egerton egerton
 eleven eleven
 enables enables
@@ -507,7 +505,6 @@ unc unc
 university university
 unnamed unnamed
 upload upload
-urldownload urldownload
 use use
 using using
 utah utah

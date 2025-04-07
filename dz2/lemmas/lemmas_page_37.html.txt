@@ -241,7 +241,6 @@ civitas civitas
 claim claim claims
 claimed claimed
 claiming claiming
-class class
 clean clean
 clear clear
 cleveland cleveland
@@ -443,7 +442,6 @@ early early
 east east
 eastern eastern
 edge edge
-edit edit
 edncom edncom
 education education
 either either
@@ -1463,7 +1461,6 @@ unreasonable unreasonable
 unum unum
 unveils unveils
 upload upload
-urldownload urldownload
 us uses
 usa usa
 use use

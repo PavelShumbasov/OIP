@@ -117,7 +117,6 @@ citation citation
 cite cite
 citenews citenews
 city city
-classic classic
 cleveland cleveland
 cloud cloud
 club club
@@ -197,8 +196,6 @@ dwight dwight
 earned earned
 east east
 eddie eddie
-edit edit
-edition edition
 eighthinning eighthinning
 elarton elarton
 encyclopedia encyclopedia
@@ -645,7 +642,6 @@ twoseason twoseason
 ulpaddingem ulpaddingem
 union union
 upload upload
-urldownload urldownload
 use use
 using using
 utc utc

@@ -83,7 +83,6 @@ citizen citizens
 city cities city
 claim claims
 clash clash
-class class
 clayton clayton
 code code
 coln coln
@@ -160,8 +159,6 @@ dtaftercontent dtaftercontent
 due due
 duke duke
 early early
-edit edit
-editorial editorial
 eduardo eduardo
 effort effort efforts
 efn efn
@@ -577,7 +574,6 @@ unsanitary unsanitary
 unsettled unsettled
 upload upload
 urban urban
-urldownload urldownload
 use use
 using using
 utc utc

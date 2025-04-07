@@ -182,8 +182,6 @@ cite
 citeweb
 city
 civic
-classic
-classical
 clef
 clip
 closeout
@@ -311,8 +309,6 @@ ecuador
 eddie
 edge
 edison
-edit
-edition
 educational
 emission
 encyclopedia
@@ -1122,7 +1118,6 @@ unsourced
 unstoppable
 upload
 urban
-urldownload
 uruguayan
 use
 used

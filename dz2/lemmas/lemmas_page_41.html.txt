@@ -126,7 +126,6 @@ cimeira cimeira
 citation citation
 cite cite
 citejournal citejournal
-classical classical
 close close
 closest closest
 cne cne
@@ -245,7 +244,6 @@ ecologist ecologist
 ecologista ecologista
 economic economic
 ecosocialism ecosocialism
-edit edit
 eduardo eduardo
 effective effective
 elect elect
@@ -792,7 +790,6 @@ united united
 unity unity
 universidade universidade
 upload upload
-urldownload urldownload
 use use
 used used
 using using

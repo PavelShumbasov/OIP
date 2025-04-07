@@ -349,8 +349,6 @@ clain
 clarion
 clark
 clarkson
-class
-classic
 clay
 claye
 clayton
@@ -554,7 +552,6 @@ eaton
 echegini
 eckert
 eder
-edit
 edmondson
 edrick
 edris
@@ -1914,8 +1911,6 @@ university
 upload
 upshaw
 ur
-urldownload
-urlwebarchive
 usa
 usatf
 usatforg

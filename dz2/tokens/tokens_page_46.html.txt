@@ -78,7 +78,6 @@ citation
 cite
 citenews
 clark
-classic
 clear
 coach
 code
@@ -145,7 +144,6 @@ due
 dyche
 eagle
 earned
-edit
 egerton
 eleven
 enables
@@ -507,7 +505,6 @@ unc
 university
 unnamed
 upload
-urldownload
 use
 using
 utah

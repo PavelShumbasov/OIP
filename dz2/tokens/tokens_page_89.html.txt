@@ -101,7 +101,6 @@ dzemajl
 echr
 ecsr
 ect
-edit
 education
 election
 encyclopedia
@@ -329,7 +328,6 @@ tzekov
 ukraine
 united
 upload
-urldownload
 use
 using
 utc

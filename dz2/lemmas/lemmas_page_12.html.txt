@@ -111,7 +111,6 @@ citebook citebook
 citenews citenews
 citizen citizens
 clarke clarke
-class class
 clique clique
 close close
 coalition coalition
@@ -194,7 +193,6 @@ due due
 duncan duncan
 dunedin dunedin
 east east
-edit edit
 effectively effectively
 embraced embraced
 emerged emerged
@@ -646,7 +644,6 @@ trademark trademark
 trapeznik trapeznik
 tripod tripod
 trotskyist trotskyist
-truell truell
 trying trying
 turned turned
 underground underground
@@ -658,7 +655,6 @@ unity unity
 university university
 upheld upheld
 upload upload
-urldownload urldownload
 use use
 usedmydates usedmydates
 using using

@@ -301,8 +301,6 @@ civil civil
 civilian civilian
 claim claim claims
 claimed claimed
-classic classic
-classification classification
 cleanup cleanup
 cleave cleave
 clifford clifford
@@ -528,7 +526,6 @@ ecommerce ecommerce
 economic economic
 economy economy
 ed eds
-edit edit
 edmonton edmonton
 education education
 edward edward
@@ -1820,7 +1817,6 @@ upper upper
 urban urban
 urbanization urbanization
 urged urged
-urldownload urldownload
 urology urology
 usa usa
 use use

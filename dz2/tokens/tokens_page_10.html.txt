@@ -239,8 +239,6 @@ dsc
 dtaftercontent
 durga
 ebnezar
-edit
-edith
 encyclopedia
 english
 erach
@@ -893,7 +891,6 @@ untreated
 upadhyaya
 upendra
 upload
-urldownload
 use
 usha
 using

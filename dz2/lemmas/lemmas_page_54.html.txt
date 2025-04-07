@@ -221,7 +221,6 @@ dvd dvd
 early early
 earth earth
 eclipso eclipso
-edit edit
 effect effects
 electromagnetic electromagnetic
 elite elite
@@ -749,7 +748,6 @@ universe universe
 unpredictable unpredictable
 unrevealed unrevealed
 upload upload
-urldownload urldownload
 us uses
 use use
 using using

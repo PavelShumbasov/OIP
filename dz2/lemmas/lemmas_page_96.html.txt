@@ -186,7 +186,6 @@ citerefloir citerefloir
 city cities city citys
 cixi cixi
 cjkv cjkv
-class class
 clique clique
 closely closely
 coal coal
@@ -298,7 +297,6 @@ east east
 eccp eccp
 economical economical
 ed eds
-edit edit
 edmond edmond
 education education
 effort efforts
@@ -1063,7 +1061,6 @@ university university
 upgrading upgrading
 upload upload
 urgency urgency
-urldownload urldownload
 us uses
 use use
 using using

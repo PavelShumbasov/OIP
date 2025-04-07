@@ -150,7 +150,6 @@ chronicle
 citation
 cite
 citeweb
-class
 clavelle
 club
 coach
@@ -250,7 +249,6 @@ earl
 earlier
 early
 edgar
-edit
 eleven
 elliott
 emerson
@@ -841,7 +839,6 @@ unity
 university
 unknown
 upload
-urldownload
 use
 usheightft
 using

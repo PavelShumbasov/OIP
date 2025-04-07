@@ -158,7 +158,6 @@ citation citation
 cite cite
 cited cited
 citejournal citejournal
-classical classical
 clay clay
 clearly clearly
 cliff cliffs
@@ -308,7 +307,6 @@ eastern eastern
 easy easy
 eclipse eclipses
 ed eds
-edit edit
 eicher eicher
 ejecta ejecta
 elevation elevation
@@ -856,7 +854,6 @@ satellite satellite
 saybrook saybrook
 scale scale scales
 scandia scandia
-schematic schematic
 scheme scheme
 schmitt schmitt
 sci sci
@@ -1034,7 +1031,6 @@ unknown unknown
 upload upload
 upon upon
 upper upper
-urldownload urldownload
 usage usage
 use use
 used used

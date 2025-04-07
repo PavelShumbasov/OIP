@@ -349,8 +349,6 @@ clain clain
 clarion clarion
 clark clark
 clarkson clarkson
-class class
-classic classic
 clay clay
 claye claye
 clayton clayton
@@ -554,7 +552,6 @@ eaton eaton
 echegini echegini
 eckert eckert
 eder eder
-edit edit
 edmondson edmondson
 edrick edrick
 edris edris
@@ -1914,8 +1911,6 @@ university university
 upload upload
 upshaw upshaw
 ur urs
-urldownload urldownload
-urlwebarchive urlwebarchive
 usa usa
 usatf usatf
 usatforg usatforg

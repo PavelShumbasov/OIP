@@ -196,7 +196,6 @@ east east
 economic economic
 economy economy
 ed eds
-edit edit
 education education
 elected elected
 election elections
@@ -696,7 +695,6 @@ united united
 university university
 upload upload
 urban urban
-urldownload urldownload
 use use
 using using
 usually usually

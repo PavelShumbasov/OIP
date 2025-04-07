@@ -142,7 +142,6 @@ city city
 civil civil
 claimed claimed
 clan clan
-classicism classicism
 code code
 collected collected
 collection collection
@@ -250,8 +249,6 @@ duke duke
 dzieje dzieje
 early early
 ed eds
-edit edit
-edited edited
 education education
 edward edward
 elected elected
@@ -856,7 +853,6 @@ unveiled unveiled
 upload upload
 uprising uprising
 upset upset
-urldownload urldownload
 ursin ursin
 ursn ursn
 ursyn ursyn

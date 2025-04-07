@@ -139,7 +139,6 @@ citenews citenews
 citeweb citeweb
 civil civil
 claim claim claims
-class class
 coalition coalition
 code code
 come comes
@@ -243,7 +242,6 @@ dynastic dynastic
 earlier earlier
 early early
 economic economic
-edit edit
 education education
 effigy effigy
 elected elected
@@ -767,7 +765,6 @@ upon upon
 upper upper
 ups ups
 urban urban
-urldownload urldownload
 use use
 using using
 utc utc

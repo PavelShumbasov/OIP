@@ -575,11 +575,6 @@ eastern eastern
 eastertide eastertide
 ecclesia ecclesia
 ecclesiastical ecclesiastical
-edit edit
-editio editio
-editores editores
-editorial editorial
-editrice editrice
 education education
 educational educational
 egg egg
@@ -1797,7 +1792,6 @@ upload upload
 upon upon
 urban urban
 urgent urgent
-urldownload urldownload
 us uses
 use use
 used used

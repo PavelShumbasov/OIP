@@ -194,8 +194,6 @@ download download
 dtaftercontent dtaftercontent
 dual dual
 ecstatic ecstatic
-edit edit
-edited edited
 elangovan elangovan
 encyclopedia encyclopedia
 end end
@@ -710,7 +708,6 @@ upandcoming upandcoming
 upload upload
 upon upon
 urge urges
-urldownload urldownload
 us uses
 use use
 using using

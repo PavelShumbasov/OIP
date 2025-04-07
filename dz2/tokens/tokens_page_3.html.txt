@@ -42,7 +42,6 @@ citation
 cite
 citenews
 city
-class
 code
 colorado
 common
@@ -81,7 +80,6 @@ dottedcursorhelp
 download
 dtaftercontent
 dy
-edit
 edward
 elected
 election
@@ -316,7 +314,6 @@ ulpaddingem
 united
 unsuccessfully
 upload
-urldownload
 use
 ushouse
 using

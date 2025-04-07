@@ -226,7 +226,6 @@ east east
 eaton eaton
 ebel ebel
 edgar edgar
-edit edit
 edward edwards
 efstathia efstathia
 elberger elberger
@@ -795,7 +794,6 @@ treleaven treleaven
 trinidad trinidad
 tripp tripp
 trottier trottier
-true true
 tudor tudor
 turcotte turcotte
 turer turer
@@ -803,7 +801,6 @@ ulery ulery
 ulpaddingem ulpaddingem
 upham upham
 upload upload
-urldownload urldownload
 use use
 using using
 utc utc

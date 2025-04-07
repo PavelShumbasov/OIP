@@ -202,7 +202,6 @@ citation citation citations
 cite cite
 city city
 claiming claiming
-classic classic
 clea clea
 clown clown
 club club
@@ -329,7 +328,6 @@ earlier earlier
 earth earth
 easily easily
 edgerly edgerly
-edit edit
 edwin edwin
 eel eel
 egghead egghead
@@ -1232,7 +1230,6 @@ unveils unveils
 unwrap unwrap
 update update
 upload upload
-urldownload urldownload
 use use
 using using
 utc utc
