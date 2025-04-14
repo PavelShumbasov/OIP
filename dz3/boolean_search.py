@@ -1,4 +1,5 @@
 import json
+from pyparsing import infixNotation, opAssoc, Keyword, Word, alphas, ParseException
 
 def load_inverted_index(input_file):
     """
@@ -19,41 +20,53 @@ def boolean_or(set1, set2):
 def boolean_not(set1, all_documents):
     return all_documents.difference(set1)
 
-def evaluate_query(query, inverted_index, all_documents):
-    """
-    Выполняет булев поиск на основе запроса.
-    Поддерживаемые операторы: AND, OR, NOT.
-    """
-    terms = query.split()
-    result = set()
-    current_operator = None
+class BooleanSearchParser:
+    def __init__(self, inverted_index, all_documents):
+        self.inverted_index = inverted_index
+        self.all_documents = all_documents
 
-    for term in terms:
-        if term == "AND":
-            current_operator = "AND"
-        elif term == "OR":
-            current_operator = "OR"
-        elif term == "NOT":
-            current_operator = "NOT"
-        else:
-            # Ищем лемму в индексе
-            term_documents = inverted_index.get(term, set())
-            if current_operator == "AND":
-                result = boolean_and(result, term_documents)
-            elif current_operator == "OR":
-                result = boolean_or(result, term_documents)
-            elif current_operator == "NOT":
-                result = boolean_not(term_documents, all_documents)
-            else:
-                result = term_documents
+    def parse_term(self, term):
+        """
+        Возвращает множество документов для заданного термина.
+        """
+        if term.startswith("NOT "):
+            term = term[4:]  # Убираем "NOT "
+            return boolean_not(self.inverted_index.get(term, set()), self.all_documents)
+        return self.inverted_index.get(term, set())
 
-    return result
+    def evaluate_expression(self, expression):
+        """
+        Вычисляет результат для сложного запроса.
+        """
+        term = Word(alphas + "_").setParseAction(lambda t: self.parse_term(t[0]))
+
+        AND = Keyword("AND")
+        OR = Keyword("OR")
+        NOT = Keyword("NOT")
+
+        expr = infixNotation(
+            term,
+            [
+                ("NOT", 1, opAssoc.RIGHT, lambda t: boolean_not(t[0][1], self.all_documents)),
+                ("AND", 2, opAssoc.LEFT, lambda t: boolean_and(t[0][0], t[0][2])),
+                ("OR", 2, opAssoc.LEFT, lambda t: boolean_or(t[0][0], t[0][2])),
+            ],
+        )
+
+        try:
+            result = expr.parseString(expression, parseAll=True)[0]
+            return result
+        except ParseException as e:
+            print(f"Ошибка парсинга запроса: {e}")
+            return set()
 
 def main():
-    input_file = "inverted_index.json"  # Файл с инвертированным индексом
+    input_file = "inverted_index.json" 
     print("Загружаем инвертированный индекс...")
     inverted_index = load_inverted_index(input_file)
-    all_documents = set(range(1, len(inverted_index) + 1))  # Предположим, у нас есть N документов
+    all_documents = set(range(1, len(inverted_index) + 1)) 
+
+    parser = BooleanSearchParser(inverted_index, all_documents)
 
     while True:
         query = input("Введите запрос (или 'exit' для выхода): ")
@@ -61,7 +74,7 @@ def main():
             break
 
         print("Выполняем запрос...")
-        result = evaluate_query(query, inverted_index, all_documents)
+        result = parser.evaluate_expression(query)
         print(f"Результат: {result}")
 
 if __name__ == "__main__":
