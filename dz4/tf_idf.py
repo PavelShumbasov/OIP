@@ -85,17 +85,16 @@ def calculate_tf_idf(tf, idf):
         tf_idf[doc_id] = {term: term_tf[term] * idf[term] for term in term_tf}
     return tf_idf
 
-def save_results(tf, idf, tf_idf, output_dir, prefix):
+def save_results(idf, tf_idf, output_dir, prefix):
     """
-    Сохраняет результаты в файлы в формате <термин><пробел><tf><пробел><idf><пробел><tf-idf><\n>.
+    Сохраняет результаты в файлы в формате <термин><пробел><idf><пробел><tf-idf><\n>.
     """
     os.makedirs(output_dir, exist_ok=True)
     for doc_id, term_scores in tf_idf.items():
         output_file = os.path.join(output_dir, f"{prefix}_page_{doc_id}.txt")
         with open(output_file, 'w', encoding='utf-8') as f:
             for term in term_scores.keys():
-                raw_tf = tf[doc_id][term]  # Сырая частота термина
-                f.write(f"{term} {raw_tf} {idf[term]} {tf_idf[doc_id][term]}\n")
+                f.write(f"{term} {idf[term]} {tf_idf[doc_id][term]}\n")
 
 def main():
     tokens_dir = "../dz2/tokens"  # Путь к папке с токенами
@@ -117,8 +116,8 @@ def main():
     tf_idf_lemmas = calculate_tf_idf(tf_lemmas, idf_lemmas)
 
     print("Сохраняем результаты...")
-    save_results(tf_tokens, idf_tokens, tf_idf_tokens, output_terms_dir, "terms")
-    save_results(tf_lemmas, idf_lemmas, tf_idf_lemmas, output_lemmas_dir, "lemmas")
+    save_results(idf_tokens, tf_idf_tokens, output_terms_dir, "terms")
+    save_results(idf_lemmas, tf_idf_lemmas, output_lemmas_dir, "lemmas")
 
     print("Готово!")
 
