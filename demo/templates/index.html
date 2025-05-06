@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Векторный поиск</title>
+    <style>
+        :root {
+            --primary-color: #a8d5e5;
+            --secondary-color: #e6f3f8;
+            --accent-color: #7ab8cc;
+            --text-color: #2c3e50;
+            --light-text: #7f8c8d;
+            --background-color: #f8fafb;
+            --card-background: #ffffff;
+            --border-color: #d1e7ed;
+            --highlight-color: #b8e2f2;
+            --error-color: #ffcdd2;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        .search-container {
+            background-color: var(--card-background);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            margin-bottom: 30px;
+            border: 1px solid var(--border-color);
+        }
+
+        h1 {
+            color: var(--text-color);
+            margin-bottom: 25px;
+            font-weight: 300;
+            font-size: 2.2em;
+        }
+
+        .search-form {
+            display: flex;
+            gap: 15px;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 12px 15px;
+            border: 2px solid var(--border-color);
+            border-radius: 8px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            background-color: var(--secondary-color);
+        }
+
+        input[type="text"]:focus {
+            outline: none;
+            border-color: var(--accent-color);
+            box-shadow: 0 0 0 3px rgba(122, 184, 204, 0.2);
+        }
+
+        button {
+            padding: 12px 25px;
+            background-color: var(--primary-color);
+            color: var(--text-color);
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+
+        button:hover {
+            background-color: var(--accent-color);
+            transform: translateY(-1px);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .results {
+            background-color: var(--card-background);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            border: 1px solid var(--border-color);
+        }
+
+        .result-item {
+            margin-bottom: 25px;
+            padding-bottom: 25px;
+            border-bottom: 1px solid var(--border-color);
+            transition: all 0.3s ease;
+        }
+
+        .result-item:hover {
+            transform: translateX(5px);
+        }
+
+        .result-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+
+        .doc-id {
+            color: var(--light-text);
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+
+        .score {
+            color: var(--accent-color);
+            font-weight: 500;
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+
+        .snippet {
+            margin-top: 15px;
+            line-height: 1.6;
+            background-color: var(--secondary-color);
+            padding: 15px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+        }
+
+        .highlight {
+            background-color: var(--highlight-color);
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            margin: 30px 0;
+            color: var(--light-text);
+        }
+
+        .error {
+            color: #c62828;
+            padding: 15px;
+            background-color: var(--error-color);
+            border-radius: 8px;
+            margin: 15px 0;
+            border: 1px solid #ef9a9a;
+        }
+
+        @media (max-width: 768px) {
+            .search-form {
+                flex-direction: column;
+            }
+            
+            button {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="search-container">
+        <h1>Векторный поиск</h1>
+        <form class="search-form" onsubmit="return handleSearch(event)">
+            <input type="text" id="query" placeholder="Введите поисковый запрос..." required>
+            <button type="submit">Поиск</button>
+        </form>
+    </div>
+
+    <div class="loading" id="loading">
+        <p>Выполняется поиск...</p>
+    </div>
+
+    <div class="results" id="results">
+        <!-- Результаты будут добавлены сюда -->
+    </div>
+
+    <script>
+        function handleSearch(event) {
+            event.preventDefault();
+            const query = document.getElementById('query').value;
+            const loading = document.getElementById('loading');
+            const results = document.getElementById('results');
+
+            loading.style.display = 'block';
+            results.innerHTML = '';
+
+            fetch('/search', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: `query=${encodeURIComponent(query)}`
+            })
+            .then(response => response.json())
+            .then(data => {
+                loading.style.display = 'none';
+                
+                if (data.error) {
+                    results.innerHTML = `<div class="error">${data.error}</div>`;
+                    return;
+                }
+
+                if (data.results.length === 0) {
+                    results.innerHTML = '<p style="text-align: center; color: var(--light-text);">Ничего не найдено</p>';
+                    return;
+                }
+
+                const resultsHtml = data.results.map(result => `
+                    <div class="result-item">
+                        <div class="doc-id">Документ ${result.doc_id}</div>
+                        <div class="score">Релевантность: ${result.score}</div>
+                        <div class="snippet">${result.snippet}</div>
+                    </div>
+                `).join('');
+
+                results.innerHTML = resultsHtml;
+            })
+            .catch(error => {
+                loading.style.display = 'none';
+                results.innerHTML = `<div class="error">Произошла ошибка: ${error.message}</div>`;
+            });
+
+            return false;
+        }
+    </script>
+</body>
+</html> 
